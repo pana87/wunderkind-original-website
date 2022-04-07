@@ -1,0 +1,265 @@
+:root { 
+  --black: #000000;
+  --chelsea-cucumber: #80b14f;
+  --gallery: #ededed;
+  --licorice: #111111;
+  --tussock: #cd9a3c;
+  --white: #ffffff;
+ 
+  --font-size-l: 15px;
+  --font-size-m: 14px;
+  --font-size-s: 11px;
+  --font-size-xl: 16px;
+  --font-size-xs: 10px;
+  --font-size-xxl: 18px;
+  --font-size-xxxl: 20px;
+ 
+  --font-family-_applesystemuifont-bold: ".AppleSystemUIFont-Bold", Helvetica;
+  --font-family-_applesystemuifont-medium: ".AppleSystemUIFont-Medium", Helvetica;
+  --font-family-_applesystemuifont-regular: ".AppleSystemUIFont-Regular", Helvetica;
+  --font-family-formadjr_micro-bold: "FormaDJR Micro-Bold", Helvetica;
+  --font-family-formadjr_micro-medium: "FormaDJR Micro-Medium", Helvetica;
+}
+.-applesystemuifont-regular-normal-tussock-15px {
+  color: var(--tussock);
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.-applesystemuifont-regular-normal-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.-applesystemuifont-regular-normal-licorice-16px {
+  color: var(--licorice);
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.formadjrmicro-bold-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.-applesystemuifont-regular-normal-tussock-10px {
+  color: var(--tussock);
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.formadjrmicro-bold-licorice-18px {
+  color: var(--licorice);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.-applesystemuifont-regular-normal-black-10px {
+  color: var(--black);
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.-applesystemuifont-regular-normal-licorice-11px {
+  color: var(--licorice);
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.formadjrmicro-bold-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.-applesystemuifont-regular-normal-licorice-14px {
+  color: var(--licorice);
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.-applesystemuifont-regular-normal-gallery-15px {
+  color: var(--gallery);
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.-applesystemuifont-bold-white-23px {
+  color: var(--white);
+  font-family: var(--font-family-_applesystemuifont-bold);
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.-applesystemuifont-regular-normal-licorice-18px {
+  color: var(--licorice);
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.-applesystemuifont-regular-normal-gallery-12px {
+  color: var(--gallery);
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.-applesystemuifont-regular-normal-gallery-10px {
+  color: var(--gallery);
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.-applesystemuifont-regular-normal-gallery-7px {
+  color: var(--gallery);
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: 7px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.formadjrmicro-bold-gallery-16px {
+  color: var(--gallery);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.-applesystemuifont-regular-normal-licorice-27px {
+  color: var(--licorice);
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.-applesystemuifont-regular-normal-licorice-35px {
+  color: var(--licorice);
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.-applesystemuifont-regular-normal-licorice-30px {
+  color: var(--licorice);
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.-applesystemuifont-regular-normal-licorice-15px {
+  color: var(--licorice);
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.formadjrmicro-bold-white-23px {
+  color: var(--white);
+  font-family: var(--font-family-formadjr_micro-bold);
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.-applesystemuifont-bold-licorice-18px {
+  color: var(--licorice);
+  font-family: var(--font-family-_applesystemuifont-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.-applesystemuifont-regular-normal-chelsea-cucumber-20px {
+  color: var(--chelsea-cucumber);
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.-applesystemuifont-regular-normal-chelsea-cucumber-16px {
+  color: var(--chelsea-cucumber);
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.-applesystemuifont-regular-normal-licorice-23px {
+  color: var(--licorice);
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.-applesystemuifont-regular-normal-licorice-20px {
+  color: var(--licorice);
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.-applesystemuifont-regular-normal-gallery-40px {
+  color: var(--gallery);
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.-applesystemuifont-regular-normal-licorice-22px {
+  color: var(--licorice);
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.border-0-4px-licorice {
+  border: 0.4px solid var(--licorice);
+}
+
+.border-1px-black {
+  border: 1px solid var(--black);
+}
+
+.border-1-5px-gallery {
+  border: 1.5px solid var(--gallery);
+}

@@ -1,0 +1,1758 @@
+/* screen - agbs-1200 */
+
+.agbs-1200 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2858px;
+  min-width: 1200px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.agbs-1200 .detailed_elegant_mar-vRRuG8 {
+  background-color: transparent;
+  height: calc(100.00% + 457px);
+  left: -1675px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 3480px);
+}
+
+.agbs-1200 .wunderkind-original-vRRuG8 {
+  background-color: transparent;
+  display: block;
+  height: 1960px;
+  left: 197px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: calc(100.00% - 366px);
+}
+
+.agbs-1200 .wunderkind-original-vRRuG8.bp2-animate-enter57 {
+  animation: bp2-animate-enter57-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter57-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1200 .wko_white_transparent-vRRuG8 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 202px;
+  left: 160px;
+  object-fit: cover;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: -15px;
+  transform: translate(-25px, 0);
+  transition: all 1s ease;
+  width: 269px;
+}
+
+.agbs-1200 .wko_white_transparent-vRRuG8.bp2-animate-enter58 {
+  animation: bp2-animate-enter58-frames 0.30s linear 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(-25px, 0);
+}
+
+@keyframes bp2-animate-enter58-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.agbs-1200 .wko_white_transparent-vRRuG8:hover {
+  transform: scale(1.1);
+}
+
+.agbs-1200 .gruppe-268-vRRuG8 {
+  background-color: transparent;
+  height: 21px;
+  position: absolute;
+  right: calc(21.53% - 74px);
+  top: 86px;
+  width: 345px;
+}
+
+.agbs-1200 .produkte-IsxJEq {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.agbs-1200 .produkte-IsxJEq:hover {
+  opacity: 0;
+}
+
+.agbs-1200 .ber-uns-IsxJEq {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(48.32% - 36px);
+  text-align: left;
+  top: 2px;
+  transition: all 0.9s ease;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.agbs-1200 .ber-uns-IsxJEq:hover {
+  opacity: 0;
+}
+
+.agbs-1200 .kontakt-IsxJEq {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 2px;
+  transition: all 0.9s ease;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.agbs-1200 .kontakt-IsxJEq:hover {
+  opacity: 0;
+}
+
+.agbs-1200 .linie-39-vRRuG8 {
+  background-color: transparent;
+  bottom: 17.24%;
+  display: block;
+  height: 1px;
+  left: calc(50.00% - 382px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 763px;
+}
+
+.agbs-1200 .linie-39-vRRuG8.bp2-animate-enter59 {
+  animation: bp2-animate-enter59-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter59-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1200 .gruppe-271-vRRuG8 {
+  background-color: transparent;
+  bottom: calc(11.91% - 8px);
+  display: block;
+  height: 66px;
+  left: calc(36.43% - 29px);
+  opacity: 0;
+  position: absolute;
+  width: 79px;
+}
+
+.agbs-1200 .gruppe-271-vRRuG8.bp2-animate-enter60 {
+  animation: bp2-animate-enter60-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter60-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1200 .produkte-6asDV6 {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% - 1px);
+}
+
+.agbs-1200 .edition-one-6asDV6 {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.agbs-1200 .gruppe-270-vRRuG8 {
+  background-color: transparent;
+  bottom: 204px;
+  display: block;
+  height: 195px;
+  left: 218px;
+  opacity: 0;
+  position: absolute;
+  width: 108px;
+}
+
+.agbs-1200 .gruppe-270-vRRuG8.bp2-animate-enter61 {
+  animation: bp2-animate-enter61-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter61-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1200 .recht-rkIUKd {
+  background-color: transparent;
+  height: 23px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 51px;
+}
+
+.agbs-1200 .datenschutz-rkIUKd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(28.29% - 6px);
+  white-space: nowrap;
+  width: 89px;
+}
+
+.agbs-1200 .impressum-rkIUKd {
+  background-color: transparent;
+  bottom: calc(47.14% - 9px);
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.agbs-1200 .ag-bs-rkIUKd {
+  background-color: transparent;
+  bottom: calc(22.57% - 5px);
+  height: 20px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.agbs-1200 .widerrufsrecht-rkIUKd {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 20px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.agbs-1200 .rechteck-331-vRRuG8 {
+  background-color: var(--licorice);
+  bottom: 0px;
+  display: block;
+  height: 44px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.agbs-1200 .rechteck-331-vRRuG8.bp2-animate-enter62 {
+  animation: bp2-animate-enter62-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter62-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1200 .wunderkind-original-etAh9x {
+  background-color: transparent;
+  bottom: 10px;
+  display: block;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.89% - 162px);
+  text-align: left;
+  width: 324px;
+}
+
+.agbs-1200 .wunderkind-original-etAh9x.bp2-animate-enter63 {
+  animation: bp2-animate-enter63-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter63-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1200 .gruppe-273-vRRuG8 {
+  background-color: transparent;
+  bottom: 65px;
+  display: block;
+  height: 23px;
+  left: calc(50.00% - 39px);
+  opacity: 0;
+  position: absolute;
+  width: 78px;
+}
+
+.agbs-1200 .gruppe-273-vRRuG8.bp2-animate-enter64 {
+  animation: bp2-animate-enter64-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter64-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1200 .iconfinder_icon-social-facebook_211902-vBF3Pl {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.agbs-1200 .comp_x5-f_173-instagram-vBF3Pl {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 23px;
+}
+
+.agbs-1200 .gruppe-251-EVBNxP {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-1200 .pfad-302-PLzOre {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+/* screen - agbs-1900 */
+
+.agbs-1900 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2716px;
+  min-width: 1900px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.agbs-1900 .detailed_elegant_mar-Txh0l7 {
+  background-color: transparent;
+  height: calc(100.00% + 2087px);
+  left: -2337px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 4880px);
+}
+
+.agbs-1900 .wunderkind-original-Txh0l7 {
+  background-color: transparent;
+  display: block;
+  height: 1850px;
+  left: 431px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 255px;
+  width: calc(100.00% - 860px);
+}
+
+.agbs-1900 .wunderkind-original-Txh0l7.bp1-animate-enter57 {
+  animation: bp1-animate-enter57-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter57-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1900 .linie-42-Txh0l7 {
+  background-color: transparent;
+  bottom: 18.15%;
+  display: block;
+  height: 1px;
+  left: calc(50.00% - 620px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 1241px;
+}
+
+.agbs-1900 .linie-42-Txh0l7.bp1-animate-enter58 {
+  animation: bp1-animate-enter58-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter58-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1900 .gruppe-304-Txh0l7 {
+  background-color: transparent;
+  bottom: calc(12.57% - 8px);
+  display: block;
+  height: 66px;
+  left: calc(29.98% - 24px);
+  opacity: 0;
+  position: absolute;
+  width: 79px;
+}
+
+.agbs-1900 .gruppe-304-Txh0l7.bp1-animate-enter59 {
+  animation: bp1-animate-enter59-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter59-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1900 .produkte-iaYwgs {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(3.49% - 1px);
+  white-space: nowrap;
+  width: 78px;
+}
+
+.agbs-1900 .edition-one-iaYwgs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(107.61% - 22px);
+  white-space: nowrap;
+  width: 81px;
+}
+
+.agbs-1900 .gruppe-305-Txh0l7 {
+  background-color: transparent;
+  bottom: 204px;
+  display: block;
+  height: 195px;
+  left: 326px;
+  opacity: 0;
+  position: absolute;
+  width: 107px;
+}
+
+.agbs-1900 .gruppe-305-Txh0l7.bp1-animate-enter60 {
+  animation: bp1-animate-enter60-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter60-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1900 .recht-NuxxLJ {
+  background-color: transparent;
+  height: 23px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 0.87%;
+  white-space: nowrap;
+  width: 51px;
+}
+
+.agbs-1900 .datenschutz-NuxxLJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 0.22%;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(28.29% - 6px);
+  white-space: nowrap;
+  width: 89px;
+}
+
+.agbs-1900 .impressum-NuxxLJ {
+  background-color: transparent;
+  bottom: 82px;
+  cursor: pointer;
+  height: 20px;
+  left: 0.21%;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.agbs-1900 .ag-bs-NuxxLJ {
+  background-color: transparent;
+  bottom: 40px;
+  height: 20px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.agbs-1900 .widerrufsrecht-NuxxLJ {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 109px;
+}
+
+.agbs-1900 .rechteck-337-Txh0l7 {
+  background-color: var(--licorice);
+  bottom: 0px;
+  display: block;
+  height: 44px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.agbs-1900 .rechteck-337-Txh0l7.bp1-animate-enter61 {
+  animation: bp1-animate-enter61-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter61-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1900 .wunderkind-original-WxH2Cg {
+  background-color: transparent;
+  bottom: 12px;
+  display: block;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.93% - 188px);
+  text-align: left;
+  width: 376px;
+}
+
+.agbs-1900 .wunderkind-original-WxH2Cg.bp1-animate-enter62 {
+  animation: bp1-animate-enter62-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter62-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1900 .gruppe-306-Txh0l7 {
+  background-color: transparent;
+  bottom: 79px;
+  display: block;
+  height: 23px;
+  left: calc(50.00% - 47px);
+  opacity: 0;
+  position: absolute;
+  width: 94px;
+}
+
+.agbs-1900 .gruppe-306-Txh0l7.bp1-animate-enter63 {
+  animation: bp1-animate-enter63-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter63-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1900 .iconfinder_icon-social-facebook_211902-nbwaK6 {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 23px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 12px;
+}
+
+.agbs-1900 .comp_x5-f_173-instagram-nbwaK6 {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  width: 23px;
+}
+
+.agbs-1900 .gruppe-251-ggYPi9 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-1900 .pfad-302-XlLVvT {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-1900 .wko_white_transparent-Txh0l7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 202px;
+  left: 252px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -15px;
+  transition: all 1s ease;
+  width: 269px;
+}
+
+.agbs-1900 .wko_white_transparent-Txh0l7:hover {
+  transform: scale(1.1);
+}
+
+.agbs-1900 .gruppe-262-Txh0l7 {
+  background-color: transparent;
+  height: 21px;
+  position: absolute;
+  right: calc(25.94% - 112px);
+  top: 86px;
+  width: 432px;
+}
+
+.agbs-1900 .produkte-rtMjWN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  transition: all 2s ease;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.agbs-1900 .produkte-rtMjWN:hover {
+  opacity: 0;
+}
+
+.agbs-1900 .ber-uns-rtMjWN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: calc(48.48% - 36px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  transition: all 2s ease;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.agbs-1900 .ber-uns-rtMjWN:hover {
+  opacity: 0;
+}
+
+.agbs-1900 .kontakt-rtMjWN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: calc(100.55% - 68px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  transition: all 2s ease;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.agbs-1900 .kontakt-rtMjWN:hover {
+  opacity: 0;
+}
+/* screen - agbs-375 */
+
+.agbs-375 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 4614px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.agbs-375 .detailed_elegant_mar-HUYGal {
+  background-color: transparent;
+  height: 124.19%;
+  left: -1023.07%;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 2156.97%;
+}
+
+.agbs-375 .wunderkind-original-HUYGal {
+  background-color: transparent;
+  display: block;
+  height: 3746px;
+  left: 16.27%;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 5.44%;
+  width: 68.00%;
+}
+
+.agbs-375 .wunderkind-original-HUYGal.bp4-animate-enter69 {
+  animation: bp4-animate-enter69-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter69-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-375 .linie-39-HUYGal {
+  background-color: transparent;
+  bottom: 10.63%;
+  display: block;
+  height: 1px;
+  left: calc(50.00% - 150px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 301px;
+}
+
+.agbs-375 .linie-39-HUYGal.bp4-animate-enter70 {
+  animation: bp4-animate-enter70-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter70-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-375 .gruppe-285-HUYGal {
+  background-color: transparent;
+  bottom: 331px;
+  display: block;
+  height: 60px;
+  left: calc(48.66% - 27px);
+  opacity: 0;
+  position: absolute;
+  width: 56px;
+}
+
+.agbs-375 .gruppe-285-HUYGal.bp4-animate-enter71 {
+  animation: bp4-animate-enter71-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter71-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-375 .produkte-YcxRoI {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% - 3px);
+}
+
+.agbs-375 .edition-one-YcxRoI {
+  background-color: transparent;
+  bottom: -3px;
+  cursor: pointer;
+  height: 14px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.agbs-375 .gruppe-284-HUYGal {
+  background-color: transparent;
+  bottom: 244px;
+  display: block;
+  height: 147px;
+  left: 57px;
+  opacity: 0;
+  position: absolute;
+  width: 75px;
+}
+
+.agbs-375 .gruppe-284-HUYGal.bp4-animate-enter72 {
+  animation: bp4-animate-enter72-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter72-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-375 .recht-8Jvn08 {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.agbs-375 .datenschutz-8Jvn08 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: calc(36.84% - 5px);
+  white-space: nowrap;
+  width: 63px;
+}
+
+.agbs-375 .impressum-8Jvn08 {
+  background-color: transparent;
+  bottom: calc(41.35% - 6px);
+  cursor: pointer;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 55px;
+}
+
+.agbs-375 .ag-bs-8Jvn08 {
+  background-color: transparent;
+  bottom: calc(19.55% - 3px);
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 31px;
+}
+
+.agbs-375 .widerrufsrecht-8Jvn08 {
+  background-color: transparent;
+  bottom: -3px;
+  cursor: pointer;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.agbs-375 .rechteck-331-HUYGal {
+  background-color: var(--licorice);
+  bottom: -3px;
+  display: block;
+  height: 44px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.agbs-375 .rechteck-331-HUYGal.bp4-animate-enter73 {
+  animation: bp4-animate-enter73-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter73-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-375 .wunderkind-original-zZKt0E {
+  background-color: transparent;
+  bottom: 4px;
+  display: block;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 7px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.44% - 98px);
+  text-align: left;
+  width: 198px;
+}
+
+.agbs-375 .wunderkind-original-zZKt0E.bp4-animate-enter74 {
+  animation: bp4-animate-enter74-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter74-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-375 .gruppe-282-HUYGal {
+  background-color: transparent;
+  bottom: 58px;
+  display: block;
+  height: 19px;
+  opacity: 0;
+  position: absolute;
+  right: calc(50.00% - 25px);
+  width: 51px;
+}
+
+.agbs-375 .gruppe-282-HUYGal.bp4-animate-enter75 {
+  animation: bp4-animate-enter75-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter75-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-375 .iconfinder_icon-social-facebook_211902-Px4Vhf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 9px;
+}
+
+.agbs-375 .comp_x5-f_173-instagram-Px4Vhf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 19px;
+}
+
+.agbs-375 .gruppe-251-04XSKf {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-375 .pfad-302-HNaP5N {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-375 .wko_white_transparent-HUYGal {
+  background-color: transparent;
+  cursor: pointer;
+  height: 120px;
+  left: -17px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -6px;
+  transition: all 1s ease;
+  width: 160px;
+}
+
+.agbs-375 .wko_white_transparent-HUYGal:hover {
+  transform: scale(1.1);
+}
+
+.agbs-375 .gruppe-280-HUYGal {
+  background-color: transparent;
+  height: 12px;
+  position: absolute;
+  right: calc(15.64% - 31px);
+  top: 60px;
+  width: 196px;
+}
+
+.agbs-375 .produkte-4iVqTv {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.agbs-375 .produkte-4iVqTv:hover {
+  opacity: 0;
+}
+
+.agbs-375 .ber-uns-4iVqTv {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(47.90% - 22px);
+  text-align: left;
+  top: 1px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.agbs-375 .ber-uns-4iVqTv:hover {
+  opacity: 0;
+}
+
+.agbs-375 .kontakt-4iVqTv {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  pointer-events: auto;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 1px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.agbs-375 .kontakt-4iVqTv:hover {
+  opacity: 0;
+}
+/* screen - agbs-767 */
+
+.agbs-767 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 3170px;
+  min-width: 767px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.agbs-767 .detailed_elegant_mar-H9sdos {
+  background-color: transparent;
+  height: 186.70%;
+  left: -489.27%;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1089.38%;
+}
+
+.agbs-767 .wunderkind-original-H9sdos {
+  background-color: transparent;
+  display: block;
+  height: 2273px;
+  left: 115px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: calc(100.00% - 226px);
+}
+
+.agbs-767 .wunderkind-original-H9sdos.bp3-animate-enter46 {
+  animation: bp3-animate-enter46-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter46-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-767 .wko_white_transparent-H9sdos {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 202px;
+  left: 45px;
+  object-fit: cover;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: -15px;
+  transform: translate(-25px, 0);
+  transition: all 1s ease;
+  width: 269px;
+}
+
+.agbs-767 .wko_white_transparent-H9sdos.bp3-animate-enter47 {
+  animation: bp3-animate-enter47-frames 0.30s linear 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(-25px, 0);
+}
+
+@keyframes bp3-animate-enter47-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.agbs-767 .wko_white_transparent-H9sdos:hover {
+  transform: scale(1.1);
+}
+
+.agbs-767 .gruppe-274-H9sdos {
+  background-color: transparent;
+  height: 21px;
+  position: absolute;
+  right: calc(17.86% - 54px);
+  top: 86px;
+  width: 305px;
+}
+
+.agbs-767 .produkte-E5Izbi {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.agbs-767 .produkte-E5Izbi:hover {
+  opacity: 0;
+}
+
+.agbs-767 .ber-uns-E5Izbi {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(48.04% - 36px);
+  text-align: left;
+  top: 2px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.agbs-767 .ber-uns-E5Izbi:hover {
+  opacity: 0;
+}
+
+.agbs-767 .kontakt-E5Izbi {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 2px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.agbs-767 .kontakt-E5Izbi:hover {
+  opacity: 0;
+}
+
+.agbs-767 .linie-39-H9sdos {
+  background-color: transparent;
+  bottom: 15.52%;
+  display: block;
+  height: 1px;
+  left: calc(50.00% - 254px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 509px;
+}
+
+.agbs-767 .linie-39-H9sdos.bp3-animate-enter48 {
+  animation: bp3-animate-enter48-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter48-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-767 .gruppe-277-H9sdos {
+  background-color: transparent;
+  bottom: calc(10.68% - 7px);
+  display: block;
+  height: 66px;
+  left: calc(36.43% - 29px);
+  opacity: 0;
+  position: absolute;
+  width: 79px;
+}
+
+.agbs-767 .gruppe-277-H9sdos.bp3-animate-enter49 {
+  animation: bp3-animate-enter49-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter49-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-767 .produkte-x7FD9K {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% - 1px);
+}
+
+.agbs-767 .edition-one-x7FD9K {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.agbs-767 .gruppe-276-H9sdos {
+  background-color: transparent;
+  bottom: 202px;
+  display: block;
+  height: 195px;
+  left: 132px;
+  opacity: 0;
+  position: absolute;
+  width: 107px;
+}
+
+.agbs-767 .gruppe-276-H9sdos.bp3-animate-enter50 {
+  animation: bp3-animate-enter50-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter50-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-767 .recht-F23A0P {
+  background-color: transparent;
+  height: 23px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 51px;
+}
+
+.agbs-767 .datenschutz-F23A0P {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(28.29% - 6px);
+  white-space: nowrap;
+  width: 89px;
+}
+
+.agbs-767 .impressum-F23A0P {
+  background-color: transparent;
+  bottom: calc(47.14% - 9px);
+  cursor: pointer;
+  height: 20px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.agbs-767 .ag-bs-F23A0P {
+  background-color: transparent;
+  bottom: calc(22.57% - 5px);
+  height: 20px;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.agbs-767 .widerrufsrecht-F23A0P {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.agbs-767 .gruppe-279-H9sdos {
+  background-color: transparent;
+  bottom: 69px;
+  display: block;
+  height: 19px;
+  left: calc(50.00% - 25px);
+  opacity: 0;
+  position: absolute;
+  width: 49px;
+}
+
+.agbs-767 .gruppe-279-H9sdos.bp3-animate-enter51 {
+  animation: bp3-animate-enter51-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter51-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-767 .iconfinder_icon-social-facebook_211902-rTsmBg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 9px;
+}
+
+.agbs-767 .comp_x5-f_173-instagram-rTsmBg {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 19px;
+}
+
+.agbs-767 .gruppe-251-jxMa2t {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-767 .pfad-302-jfJYK0 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-767 .rechteck-331-H9sdos {
+  background-color: var(--licorice);
+  bottom: -2px;
+  display: block;
+  height: 44px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.agbs-767 .rechteck-331-H9sdos.bp3-animate-enter52 {
+  animation: bp3-animate-enter52-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter52-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-767 .wunderkind-original-JoxZs9 {
+  background-color: transparent;
+  bottom: 4px;
+  display: block;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0;
+  position: absolute;
+  right: calc(48.25% - 136px);
+  text-align: left;
+  width: 281px;
+}
+
+.agbs-767 .wunderkind-original-JoxZs9.bp3-animate-enter53 {
+  animation: bp3-animate-enter53-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter53-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+@media screen and (max-width: 766px) {
+  .screen.agbs-1900 { 
+    display: none;
+   }
+  .screen.agbs-1200 { 
+    display: none;
+   }
+  .screen.agbs-767 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 767px) and (max-width: 1199px) {
+  .screen.agbs-1900 { 
+    display: none;
+   }
+  .screen.agbs-1200 { 
+    display: none;
+   }
+  .screen.agbs-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1200px) and (max-width: 1899px) {
+  .screen.agbs-1900 { 
+    display: none;
+   }
+  .screen.agbs-767 { 
+    display: none;
+   }
+  .screen.agbs-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1900px) {
+  .screen.agbs-1200 { 
+    display: none;
+   }
+  .screen.agbs-767 { 
+    display: none;
+   }
+  .screen.agbs-375 { 
+    display: none;
+   }
+}

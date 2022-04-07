@@ -1,0 +1,1755 @@
+/* screen - widerrufsrecht-1200 */
+
+.widerrufsrecht-1200 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1662px;
+  min-width: 1200px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.widerrufsrecht-1200 .detailed_elegant_mar-OacAW0 {
+  background-color: transparent;
+  height: calc(100.00% + 1653px);
+  left: -1675px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 3480px);
+}
+
+.widerrufsrecht-1200 .widerrufsrecht-sie-h-OacAW0 {
+  background-color: transparent;
+  display: block;
+  height: 772px;
+  left: 197px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(28.60% - 221px);
+  width: calc(100.00% - 366px);
+}
+
+.widerrufsrecht-1200 .widerrufsrecht-sie-h-OacAW0.bp3-animate-enter54 {
+  animation: bp3-animate-enter54-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter54-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-1200 .wko_white_transparent-OacAW0 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 202px;
+  left: 160px;
+  object-fit: cover;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: -15px;
+  transform: translate(-25px, 0);
+  transition: all 1s ease;
+  width: 269px;
+}
+
+.widerrufsrecht-1200 .wko_white_transparent-OacAW0.bp3-animate-enter55 {
+  animation: bp3-animate-enter55-frames 0.30s linear 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(-25px, 0);
+}
+
+@keyframes bp3-animate-enter55-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.widerrufsrecht-1200 .wko_white_transparent-OacAW0:hover {
+  transform: scale(1.1);
+}
+
+.widerrufsrecht-1200 .gruppe-268-OacAW0 {
+  background-color: transparent;
+  height: 21px;
+  position: absolute;
+  right: calc(21.53% - 74px);
+  top: 86px;
+  width: 345px;
+}
+
+.widerrufsrecht-1200 .produkte-eaB7TW {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.widerrufsrecht-1200 .produkte-eaB7TW:hover {
+  opacity: 0;
+}
+
+.widerrufsrecht-1200 .ber-uns-eaB7TW {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(48.32% - 36px);
+  text-align: left;
+  top: 2px;
+  transition: all 0.9s ease;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.widerrufsrecht-1200 .ber-uns-eaB7TW:hover {
+  opacity: 0;
+}
+
+.widerrufsrecht-1200 .kontakt-eaB7TW {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 2px;
+  transition: all 0.9s ease;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.widerrufsrecht-1200 .kontakt-eaB7TW:hover {
+  opacity: 0;
+}
+
+.widerrufsrecht-1200 .linie-39-OacAW0 {
+  background-color: transparent;
+  bottom: 29.56%;
+  display: block;
+  height: 1px;
+  left: calc(50.00% - 382px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 763px;
+}
+
+.widerrufsrecht-1200 .linie-39-OacAW0.bp3-animate-enter56 {
+  animation: bp3-animate-enter56-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter56-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-1200 .gruppe-271-OacAW0 {
+  background-color: transparent;
+  bottom: calc(20.74% - 14px);
+  display: block;
+  height: 66px;
+  left: calc(36.43% - 29px);
+  opacity: 0;
+  position: absolute;
+  width: 79px;
+}
+
+.widerrufsrecht-1200 .gruppe-271-OacAW0.bp3-animate-enter57 {
+  animation: bp3-animate-enter57-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter57-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-1200 .produkte-48H9jS {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% - 1px);
+}
+
+.widerrufsrecht-1200 .edition-one-48H9jS {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.widerrufsrecht-1200 .gruppe-270-OacAW0 {
+  background-color: transparent;
+  bottom: 202px;
+  display: block;
+  height: 195px;
+  left: 218px;
+  opacity: 0;
+  position: absolute;
+  width: 108px;
+}
+
+.widerrufsrecht-1200 .gruppe-270-OacAW0.bp3-animate-enter58 {
+  animation: bp3-animate-enter58-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter58-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-1200 .recht-PvNYKH {
+  background-color: transparent;
+  height: 23px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 51px;
+}
+
+.widerrufsrecht-1200 .datenschutz-PvNYKH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(28.29% - 6px);
+  white-space: nowrap;
+  width: 89px;
+}
+
+.widerrufsrecht-1200 .impressum-PvNYKH {
+  background-color: transparent;
+  bottom: calc(47.14% - 9px);
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.widerrufsrecht-1200 .ag-bs-PvNYKH {
+  background-color: transparent;
+  bottom: calc(22.57% - 5px);
+  cursor: pointer;
+  height: 20px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.widerrufsrecht-1200 .widerrufsrecht-PvNYKH {
+  background-color: transparent;
+  bottom: -4px;
+  height: 20px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.widerrufsrecht-1200 .rechteck-331-OacAW0 {
+  background-color: var(--licorice);
+  bottom: -2px;
+  display: block;
+  height: 44px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.widerrufsrecht-1200 .rechteck-331-OacAW0.bp3-animate-enter59 {
+  animation: bp3-animate-enter59-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter59-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-1200 .wunderkind-original-OacAW0 {
+  background-color: transparent;
+  bottom: 9px;
+  display: block;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.89% - 162px);
+  text-align: left;
+  width: 324px;
+}
+
+.widerrufsrecht-1200 .wunderkind-original-OacAW0.bp3-animate-enter60 {
+  animation: bp3-animate-enter60-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter60-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-1200 .gruppe-273-OacAW0 {
+  background-color: transparent;
+  bottom: 63px;
+  display: block;
+  height: 23px;
+  left: calc(50.00% - 39px);
+  opacity: 0;
+  position: absolute;
+  width: 78px;
+}
+
+.widerrufsrecht-1200 .gruppe-273-OacAW0.bp3-animate-enter61 {
+  animation: bp3-animate-enter61-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter61-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-1200 .iconfinder_icon-social-facebook_211902-FFlQ2O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+
+.widerrufsrecht-1200 .comp_x5-f_173-instagram-FFlQ2O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 23px;
+}
+
+.widerrufsrecht-1200 .gruppe-251-soAfqx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.widerrufsrecht-1200 .pfad-302-pxM1YI {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+/* screen - widerrufsrecht-1900 */
+
+.widerrufsrecht-1900 {
+  background-color: var(--white);
+  height: 1700px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1900px;
+}
+
+.widerrufsrecht-1900 .detailed_elegant_mar-6xzkT4 {
+  background-color: transparent;
+  height: 4803px;
+  left: -2337px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 6780px;
+}
+
+.widerrufsrecht-1900 .widerrufsrecht-sie-h-6xzkT4 {
+  background-color: transparent;
+  display: block;
+  height: 715px;
+  left: 431px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 255px;
+  width: 1040px;
+}
+
+.widerrufsrecht-1900 .widerrufsrecht-sie-h-6xzkT4.bp4-animate-enter76 {
+  animation: bp4-animate-enter76-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter76-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-1900 .wko_white_transparent-6xzkT4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 202px;
+  left: 252px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -15px;
+  transition: all 1s ease;
+  width: 269px;
+}
+
+.widerrufsrecht-1900 .wko_white_transparent-6xzkT4:hover {
+  transform: scale(1.1);
+}
+
+.widerrufsrecht-1900 .linie-42-6xzkT4 {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: 330px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 1209px;
+  width: 1241px;
+}
+
+.widerrufsrecht-1900 .linie-42-6xzkT4.bp4-animate-enter77 {
+  animation: bp4-animate-enter77-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter77-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-1900 .gruppe-304-6xzkT4 {
+  background-color: transparent;
+  display: block;
+  height: 66px;
+  left: 546px;
+  opacity: 0;
+  position: absolute;
+  top: 1304px;
+  width: 81px;
+}
+
+.widerrufsrecht-1900 .gruppe-304-6xzkT4.bp4-animate-enter78 {
+  animation: bp4-animate-enter78-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter78-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-1900 .produkte-6bQAjR {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(3.49% - 1px);
+  white-space: nowrap;
+  width: 78px;
+}
+
+.widerrufsrecht-1900 .edition-one-6bQAjR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(107.61% - 22px);
+  white-space: nowrap;
+  width: 81px;
+}
+
+.widerrufsrecht-1900 .gruppe-305-6xzkT4 {
+  background-color: transparent;
+  display: block;
+  height: 195px;
+  left: 326px;
+  opacity: 0;
+  position: absolute;
+  top: 1304px;
+  width: 109px;
+}
+
+.widerrufsrecht-1900 .gruppe-305-6xzkT4.bp4-animate-enter79 {
+  animation: bp4-animate-enter79-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter79-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-1900 .recht-7oRJ89 {
+  background-color: transparent;
+  height: 23px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 0.87%;
+  white-space: nowrap;
+  width: 51px;
+}
+
+.widerrufsrecht-1900 .datenschutz-7oRJ89 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 0.22%;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(28.29% - 6px);
+  white-space: nowrap;
+  width: 89px;
+}
+
+.widerrufsrecht-1900 .impressum-7oRJ89 {
+  background-color: transparent;
+  bottom: 82px;
+  cursor: pointer;
+  height: 20px;
+  left: 0.21%;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.widerrufsrecht-1900 .ag-bs-7oRJ89 {
+  background-color: transparent;
+  bottom: 40px;
+  cursor: pointer;
+  height: 20px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.widerrufsrecht-1900 .widerrufsrecht-7oRJ89 {
+  background-color: transparent;
+  bottom: -4px;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 109px;
+}
+
+.widerrufsrecht-1900 .rechteck-337-6xzkT4 {
+  background-color: var(--licorice);
+  display: block;
+  height: 44px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 1659px;
+  width: 1900px;
+}
+
+.widerrufsrecht-1900 .rechteck-337-6xzkT4.bp4-animate-enter80 {
+  animation: bp4-animate-enter80-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter80-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-1900 .wunderkind-original-6xzkT4 {
+  background-color: transparent;
+  display: block;
+  height: 20px;
+  left: 763px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 1672px;
+  width: 376px;
+}
+
+.widerrufsrecht-1900 .wunderkind-original-6xzkT4.bp4-animate-enter81 {
+  animation: bp4-animate-enter81-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter81-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-1900 .gruppe-306-6xzkT4 {
+  background-color: transparent;
+  display: block;
+  height: 23px;
+  left: 903px;
+  opacity: 0;
+  position: absolute;
+  top: 1602px;
+  width: 94px;
+}
+
+.widerrufsrecht-1900 .gruppe-306-6xzkT4.bp4-animate-enter82 {
+  animation: bp4-animate-enter82-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter82-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-1900 .iconfinder_icon-social-facebook_211902-izeH9z {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 23px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 12px;
+}
+
+.widerrufsrecht-1900 .comp_x5-f_173-instagram-izeH9z {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  width: 23px;
+}
+
+.widerrufsrecht-1900 .gruppe-251-3W1nor {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.widerrufsrecht-1900 .pfad-302-zx7Sm1 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.widerrufsrecht-1900 .gruppe-262-6xzkT4 {
+  background-color: transparent;
+  height: 21px;
+  left: 1087px;
+  position: absolute;
+  top: 86px;
+  width: 434px;
+}
+
+.widerrufsrecht-1900 .produkte-sAcaaB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  transition: all 2s ease;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.widerrufsrecht-1900 .produkte-sAcaaB:hover {
+  opacity: 0;
+}
+
+.widerrufsrecht-1900 .ber-uns-sAcaaB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: calc(48.48% - 36px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  transition: all 2s ease;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.widerrufsrecht-1900 .ber-uns-sAcaaB:hover {
+  opacity: 0;
+}
+
+.widerrufsrecht-1900 .kontakt-sAcaaB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: calc(100.55% - 68px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  transition: all 2s ease;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.widerrufsrecht-1900 .kontakt-sAcaaB:hover {
+  opacity: 0;
+}
+/* screen - widerrufsrecht-375 */
+
+.widerrufsrecht-375 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2669px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.widerrufsrecht-375 .detailed_elegant_mar-refnwD {
+  background-color: transparent;
+  height: 100.02%;
+  left: -447.03%;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1004.89%;
+}
+
+.widerrufsrecht-375 .widerrufsrecht-sie-h-refnwD {
+  background-color: transparent;
+  display: block;
+  height: 1791px;
+  left: 16.27%;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 9.40%;
+  width: 68.00%;
+}
+
+.widerrufsrecht-375 .widerrufsrecht-sie-h-refnwD.bp1-animate-enter64 {
+  animation: bp1-animate-enter64-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter64-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-375 .linie-39-refnwD {
+  background-color: transparent;
+  bottom: 18.47%;
+  display: block;
+  height: 1px;
+  left: calc(50.00% - 150px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 301px;
+}
+
+.widerrufsrecht-375 .linie-39-refnwD.bp1-animate-enter65 {
+  animation: bp1-animate-enter65-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter65-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-375 .gruppe-285-refnwD {
+  background-color: transparent;
+  bottom: 334px;
+  display: block;
+  height: 60px;
+  left: calc(48.66% - 27px);
+  opacity: 0;
+  position: absolute;
+  width: 56px;
+}
+
+.widerrufsrecht-375 .gruppe-285-refnwD.bp1-animate-enter66 {
+  animation: bp1-animate-enter66-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter66-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-375 .produkte-fCGuZm {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% - 3px);
+}
+
+.widerrufsrecht-375 .edition-one-fCGuZm {
+  background-color: transparent;
+  bottom: -3px;
+  cursor: pointer;
+  height: 14px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.widerrufsrecht-375 .gruppe-284-refnwD {
+  background-color: transparent;
+  bottom: 246px;
+  display: block;
+  height: 147px;
+  left: 57px;
+  opacity: 0;
+  position: absolute;
+  width: 75px;
+}
+
+.widerrufsrecht-375 .gruppe-284-refnwD.bp1-animate-enter67 {
+  animation: bp1-animate-enter67-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter67-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-375 .recht-7hzNPL {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.widerrufsrecht-375 .datenschutz-7hzNPL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: calc(36.84% - 5px);
+  white-space: nowrap;
+  width: 63px;
+}
+
+.widerrufsrecht-375 .impressum-7hzNPL {
+  background-color: transparent;
+  bottom: calc(41.35% - 6px);
+  cursor: pointer;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 55px;
+}
+
+.widerrufsrecht-375 .ag-bs-7hzNPL {
+  background-color: transparent;
+  bottom: calc(19.55% - 3px);
+  cursor: pointer;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 31px;
+}
+
+.widerrufsrecht-375 .widerrufsrecht-7hzNPL {
+  background-color: transparent;
+  bottom: -3px;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.widerrufsrecht-375 .rechteck-331-refnwD {
+  background-color: var(--licorice);
+  bottom: 0px;
+  display: block;
+  height: 44px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.widerrufsrecht-375 .rechteck-331-refnwD.bp1-animate-enter68 {
+  animation: bp1-animate-enter68-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter68-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-375 .wunderkind-original-refnwD {
+  background-color: transparent;
+  bottom: 6px;
+  display: block;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 7px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.44% - 98px);
+  text-align: left;
+  width: 198px;
+}
+
+.widerrufsrecht-375 .wunderkind-original-refnwD.bp1-animate-enter69 {
+  animation: bp1-animate-enter69-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter69-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-375 .gruppe-282-refnwD {
+  background-color: transparent;
+  bottom: 60px;
+  display: block;
+  height: 19px;
+  opacity: 0;
+  position: absolute;
+  right: calc(50.00% - 25px);
+  width: 51px;
+}
+
+.widerrufsrecht-375 .gruppe-282-refnwD.bp1-animate-enter70 {
+  animation: bp1-animate-enter70-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter70-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-375 .iconfinder_icon-social-facebook_211902-8w1WGi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 9px;
+}
+
+.widerrufsrecht-375 .comp_x5-f_173-instagram-8w1WGi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 19px;
+}
+
+.widerrufsrecht-375 .gruppe-251-RybPAS {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.widerrufsrecht-375 .pfad-302-OBWrdJ {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.widerrufsrecht-375 .wko_white_transparent-refnwD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 120px;
+  left: -17px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -6px;
+  transition: all 1s ease;
+  width: 160px;
+}
+
+.widerrufsrecht-375 .wko_white_transparent-refnwD:hover {
+  transform: scale(1.1);
+}
+
+.widerrufsrecht-375 .gruppe-280-refnwD {
+  background-color: transparent;
+  height: 12px;
+  position: absolute;
+  right: calc(15.64% - 31px);
+  top: 60px;
+  width: 196px;
+}
+
+.widerrufsrecht-375 .produkte-4J1k1W {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.widerrufsrecht-375 .produkte-4J1k1W:hover {
+  opacity: 0;
+}
+
+.widerrufsrecht-375 .ber-uns-4J1k1W {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(47.90% - 22px);
+  text-align: left;
+  top: 1px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.widerrufsrecht-375 .ber-uns-4J1k1W:hover {
+  opacity: 0;
+}
+
+.widerrufsrecht-375 .kontakt-4J1k1W {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  pointer-events: auto;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 1px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.widerrufsrecht-375 .kontakt-4J1k1W:hover {
+  opacity: 0;
+}
+/* screen - widerrufsrecht-767 */
+
+.widerrufsrecht-767 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1958px;
+  min-width: 767px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.widerrufsrecht-767 .detailed_elegant_mar-koGRDO {
+  background-color: transparent;
+  height: 302.26%;
+  left: -489.27%;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1089.38%;
+}
+
+.widerrufsrecht-767 .widerrufsrecht-sie-h-koGRDO {
+  background-color: transparent;
+  display: block;
+  height: 987px;
+  left: 115px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: calc(100.00% - 226px);
+}
+
+.widerrufsrecht-767 .widerrufsrecht-sie-h-koGRDO.bp2-animate-enter65 {
+  animation: bp2-animate-enter65-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter65-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-767 .wko_white_transparent-koGRDO {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 202px;
+  left: 45px;
+  object-fit: cover;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: -15px;
+  transform: translate(-25px, 0);
+  transition: all 1s ease;
+  width: 269px;
+}
+
+.widerrufsrecht-767 .wko_white_transparent-koGRDO.bp2-animate-enter66 {
+  animation: bp2-animate-enter66-frames 0.30s linear 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(-25px, 0);
+}
+
+@keyframes bp2-animate-enter66-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.widerrufsrecht-767 .wko_white_transparent-koGRDO:hover {
+  transform: scale(1.1);
+}
+
+.widerrufsrecht-767 .gruppe-274-koGRDO {
+  background-color: transparent;
+  height: 21px;
+  position: absolute;
+  right: calc(17.86% - 54px);
+  top: 86px;
+  width: 305px;
+}
+
+.widerrufsrecht-767 .produkte-KXhI4p {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.widerrufsrecht-767 .produkte-KXhI4p:hover {
+  opacity: 0;
+}
+
+.widerrufsrecht-767 .ber-uns-KXhI4p {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(48.04% - 36px);
+  text-align: left;
+  top: 2px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.widerrufsrecht-767 .ber-uns-KXhI4p:hover {
+  opacity: 0;
+}
+
+.widerrufsrecht-767 .kontakt-KXhI4p {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 2px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.widerrufsrecht-767 .kontakt-KXhI4p:hover {
+  opacity: 0;
+}
+
+.widerrufsrecht-767 .linie-39-koGRDO {
+  background-color: transparent;
+  bottom: 25.15%;
+  display: block;
+  height: 1px;
+  left: calc(50.00% - 254px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 509px;
+}
+
+.widerrufsrecht-767 .linie-39-koGRDO.bp2-animate-enter67 {
+  animation: bp2-animate-enter67-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter67-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-767 .gruppe-277-koGRDO {
+  background-color: transparent;
+  bottom: calc(17.55% - 12px);
+  display: block;
+  height: 66px;
+  left: calc(36.43% - 29px);
+  opacity: 0;
+  position: absolute;
+  width: 79px;
+}
+
+.widerrufsrecht-767 .gruppe-277-koGRDO.bp2-animate-enter68 {
+  animation: bp2-animate-enter68-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter68-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-767 .produkte-cfKnP9 {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% - 1px);
+}
+
+.widerrufsrecht-767 .edition-one-cfKnP9 {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.widerrufsrecht-767 .gruppe-276-koGRDO {
+  background-color: transparent;
+  bottom: 203px;
+  display: block;
+  height: 195px;
+  left: 132px;
+  opacity: 0;
+  position: absolute;
+  width: 107px;
+}
+
+.widerrufsrecht-767 .gruppe-276-koGRDO.bp2-animate-enter69 {
+  animation: bp2-animate-enter69-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter69-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-767 .recht-V9C8Dh {
+  background-color: transparent;
+  height: 23px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 51px;
+}
+
+.widerrufsrecht-767 .datenschutz-V9C8Dh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(28.29% - 6px);
+  white-space: nowrap;
+  width: 89px;
+}
+
+.widerrufsrecht-767 .impressum-V9C8Dh {
+  background-color: transparent;
+  bottom: calc(47.14% - 9px);
+  cursor: pointer;
+  height: 20px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.widerrufsrecht-767 .ag-bs-V9C8Dh {
+  background-color: transparent;
+  bottom: calc(22.57% - 5px);
+  cursor: pointer;
+  height: 20px;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.widerrufsrecht-767 .widerrufsrecht-V9C8Dh {
+  background-color: transparent;
+  bottom: -4px;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.widerrufsrecht-767 .gruppe-279-koGRDO {
+  background-color: transparent;
+  bottom: 69px;
+  display: block;
+  height: 19px;
+  left: calc(50.00% - 25px);
+  opacity: 0;
+  position: absolute;
+  width: 49px;
+}
+
+.widerrufsrecht-767 .gruppe-279-koGRDO.bp2-animate-enter70 {
+  animation: bp2-animate-enter70-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter70-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-767 .iconfinder_icon-social-facebook_211902-bVYa5Q {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 9px;
+}
+
+.widerrufsrecht-767 .comp_x5-f_173-instagram-bVYa5Q {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 19px;
+}
+
+.widerrufsrecht-767 .gruppe-251-qqPlxd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.widerrufsrecht-767 .pfad-302-sXxd1R {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.widerrufsrecht-767 .rechteck-331-koGRDO {
+  background-color: var(--licorice);
+  bottom: -1px;
+  display: block;
+  height: 44px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.widerrufsrecht-767 .rechteck-331-koGRDO.bp2-animate-enter71 {
+  animation: bp2-animate-enter71-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter71-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.widerrufsrecht-767 .wunderkind-original-koGRDO {
+  background-color: transparent;
+  bottom: 5px;
+  display: block;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0;
+  position: absolute;
+  right: calc(48.25% - 136px);
+  text-align: left;
+  width: 281px;
+}
+
+.widerrufsrecht-767 .wunderkind-original-koGRDO.bp2-animate-enter72 {
+  animation: bp2-animate-enter72-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter72-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+@media screen and (max-width: 766px) {
+  .screen.widerrufsrecht-1900 { 
+    display: none;
+   }
+  .screen.widerrufsrecht-767 { 
+    display: none;
+   }
+  .screen.widerrufsrecht-1200 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 767px) and (max-width: 1199px) {
+  .screen.widerrufsrecht-1900 { 
+    display: none;
+   }
+  .screen.widerrufsrecht-375 { 
+    display: none;
+   }
+  .screen.widerrufsrecht-1200 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1200px) and (max-width: 1899px) {
+  .screen.widerrufsrecht-1900 { 
+    display: none;
+   }
+  .screen.widerrufsrecht-375 { 
+    display: none;
+   }
+  .screen.widerrufsrecht-767 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1900px) {
+  .screen.widerrufsrecht-375 { 
+    display: none;
+   }
+  .screen.widerrufsrecht-767 { 
+    display: none;
+   }
+  .screen.widerrufsrecht-1200 { 
+    display: none;
+   }
+}

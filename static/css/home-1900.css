@@ -1,0 +1,2372 @@
+/* screen - home-1200 */
+
+.home-1200 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1316px;
+  min-width: 1200px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.home-1200 .rechteck-327-bjCaUM {
+  background-color: var(--black);
+  display: block;
+  height: 579px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 187px;
+  width: 100%;
+}
+
+.home-1200 .rechteck-327-bjCaUM.bp3-animate-enter {
+  animation: bp3-animate-enter-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-1200 .rechteck-327-mEvOJC {
+  background-color: var(--black);
+  display: block;
+  height: 579px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 187px;
+  width: 100%;
+}
+
+.home-1200 .rechteck-327-mEvOJC.bp3-animate-enter1 {
+  animation: bp3-animate-enter1-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-1200 .home-bjCaUM {
+  background-color: transparent;
+  display: block;
+  height: 800px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: -34px;
+  width: 100%;
+}
+
+.home-1200 .home-bjCaUM.bp3-animate-enter2 {
+  animation: bp3-animate-enter2-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-1200 .rechteck-326-bjCaUM {
+  background-color: var(--white);
+  height: 187px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-1200 .detailed_elegant_mar-bjCaUM {
+  background-color: transparent;
+  height: 1715px;
+  left: -63px;
+  object-fit: cover;
+  position: absolute;
+  top: -1528px;
+  width: calc(100.00% + 1221px);
+}
+
+.home-1200 .rechteck-329-bjCaUM {
+  background-color: var(--white);
+  bottom: calc(30.68% - 65px);
+  display: block;
+  height: 211px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.home-1200 .rechteck-329-bjCaUM.bp3-animate-enter3 {
+  animation: bp3-animate-enter3-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-1200 .wunderkind-original-design-bjCaUM {
+  background-color: transparent;
+  display: block;
+  height: 49px;
+  left: calc(26.57% - 127px);
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(35.40% - 17px);
+  white-space: nowrap;
+  width: 479px;
+}
+
+.home-1200 .wunderkind-original-design-bjCaUM.bp3-animate-enter4 {
+  animation: bp3-animate-enter4-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-1200 .for-people-who-defin-bjCaUM {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  height: 98px;
+  left: calc(29.66% - 164px);
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(42.36% - 42px);
+  width: 554px;
+}
+
+.home-1200 .for-people-who-defin-bjCaUM.bp3-animate-enter5 {
+  animation: bp3-animate-enter5-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-1200 .gruppe-269-bjCaUM {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 58px;
+  left: calc(30.35% - 80px);
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: calc(49.44% - 29px);
+  transition: all 0.2s ease;
+  width: 264px;
+}
+
+.home-1200 .gruppe-269-bjCaUM.bp3-animate-enter6 {
+  animation: bp3-animate-enter6-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-1200 .gruppe-269-bjCaUM:hover {
+  transform: translate(0, -5px);
+}
+
+.home-1200 .shop-njte2K {
+  background-color: transparent;
+  height: 32px;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  position: absolute;
+  right: calc(45.03% - 30px);
+  text-align: left;
+  top: 14px;
+  width: 67px;
+}
+
+.home-1200 .rechteck-328-njte2K {
+  background-color: transparent;
+  border-radius: 3px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-1200 .detailed_elegant_mar-mEvOJC {
+  background-color: transparent;
+  bottom: -1165px;
+  height: 1715px;
+  left: -136px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 1222px);
+}
+
+.home-1200 .linie-39-bjCaUM {
+  background-color: transparent;
+  bottom: 37.19%;
+  display: block;
+  height: 1px;
+  left: calc(50.00% - 382px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 763px;
+}
+
+.home-1200 .linie-39-bjCaUM.bp3-animate-enter7 {
+  animation: bp3-animate-enter7-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-1200 .gruppe-271-bjCaUM {
+  background-color: transparent;
+  bottom: calc(26.32% - 17px);
+  display: block;
+  height: 66px;
+  left: calc(36.43% - 29px);
+  opacity: 0;
+  position: absolute;
+  width: 79px;
+}
+
+.home-1200 .gruppe-271-bjCaUM.bp3-animate-enter8 {
+  animation: bp3-animate-enter8-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter8-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-1200 .produkte-dEiayt {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% - 1px);
+}
+
+.home-1200 .edition-one-dEiayt {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.home-1200 .gruppe-270-bjCaUM {
+  background-color: transparent;
+  bottom: 200px;
+  display: block;
+  height: 195px;
+  left: 218px;
+  opacity: 0;
+  position: absolute;
+  width: 108px;
+}
+
+.home-1200 .gruppe-270-bjCaUM.bp3-animate-enter9 {
+  animation: bp3-animate-enter9-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter9-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-1200 .recht-v9yZFw {
+  background-color: transparent;
+  height: 23px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 51px;
+}
+
+.home-1200 .datenschutz-v9yZFw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(28.29% - 6px);
+  white-space: nowrap;
+  width: 89px;
+}
+
+.home-1200 .impressum-v9yZFw {
+  background-color: transparent;
+  bottom: calc(47.14% - 9px);
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.home-1200 .ag-bs-v9yZFw {
+  background-color: transparent;
+  bottom: calc(22.57% - 5px);
+  cursor: pointer;
+  height: 20px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.home-1200 .widerrufsrecht-v9yZFw {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 20px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.home-1200 .gruppe-273-bjCaUM {
+  background-color: transparent;
+  bottom: 66px;
+  display: block;
+  height: 23px;
+  left: calc(50.00% - 39px);
+  opacity: 0;
+  position: absolute;
+  width: 78px;
+}
+
+.home-1200 .gruppe-273-bjCaUM.bp3-animate-enter10 {
+  animation: bp3-animate-enter10-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter10-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-1200 .iconfinder_icon-social-facebook_211902-Mq9Xwp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+
+.home-1200 .comp_x5-f_173-instagram-Mq9Xwp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 23px;
+}
+
+.home-1200 .gruppe-251-4OiEra {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.home-1200 .pfad-302-dR7S2f {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-1200 .rechteck-331-bjCaUM {
+  background-color: var(--licorice);
+  bottom: -4px;
+  display: block;
+  height: 44px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.home-1200 .rechteck-331-bjCaUM.bp3-animate-enter11 {
+  animation: bp3-animate-enter11-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter11-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-1200 .wunderkind-original-bjCaUM {
+  background-color: transparent;
+  bottom: 7px;
+  display: block;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.89% - 162px);
+  text-align: left;
+  width: 324px;
+}
+
+.home-1200 .wunderkind-original-bjCaUM.bp3-animate-enter12 {
+  animation: bp3-animate-enter12-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter12-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-1200 .wko_white_transparent-bjCaUM {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 202px;
+  left: 160px;
+  object-fit: cover;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: -15px;
+  transform: translate(-25px, 0);
+  transition: all 1s ease;
+  width: 269px;
+}
+
+.home-1200 .wko_white_transparent-bjCaUM.bp3-animate-enter13 {
+  animation: bp3-animate-enter13-frames 0.30s linear 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(-25px, 0);
+}
+
+@keyframes bp3-animate-enter13-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.home-1200 .wko_white_transparent-bjCaUM:hover {
+  transform: scale(1.1);
+}
+
+.home-1200 .gruppe-268-bjCaUM {
+  background-color: transparent;
+  height: 21px;
+  position: absolute;
+  right: calc(21.53% - 74px);
+  top: 86px;
+  width: 345px;
+}
+
+.home-1200 .produkte-IHWTxI {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.home-1200 .produkte-IHWTxI:hover {
+  opacity: 0;
+}
+
+.home-1200 .ber-uns-IHWTxI {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(48.32% - 36px);
+  text-align: left;
+  top: 2px;
+  transition: all 0.9s ease;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.home-1200 .ber-uns-IHWTxI:hover {
+  opacity: 0;
+}
+
+.home-1200 .kontakt-IHWTxI {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 2px;
+  transition: all 0.9s ease;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.home-1200 .kontakt-IHWTxI:hover {
+  opacity: 0;
+}
+/* screen - home-1900 */
+
+.home-1900 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1635px;
+  min-width: 1900px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.home-1900 .home-GA1EoY {
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% - 368px);
+  left: 0px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: -34px;
+  width: 100%;
+}
+
+.home-1900 .home-GA1EoY.bp4-animate-enter {
+  animation: bp4-animate-enter-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-1900 .rechteck-326-GA1EoY {
+  background-color: var(--white);
+  height: 187px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-1900 .detailed_elegant_mar-GA1EoY {
+  background-color: transparent;
+  height: 1715px;
+  left: -100px;
+  object-fit: cover;
+  position: absolute;
+  top: -1528px;
+  width: calc(100.00% + 522px);
+}
+
+.home-1900 .rechteck-329-GA1EoY {
+  background-color: var(--white);
+  bottom: calc(24.02% - 51px);
+  display: block;
+  height: 211px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.home-1900 .rechteck-329-GA1EoY.bp4-animate-enter1 {
+  animation: bp4-animate-enter1-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-1900 .wunderkind-original-design-GA1EoY {
+  background-color: transparent;
+  display: block;
+  height: 49px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  right: calc(29.91% - 143px);
+  text-align: left;
+  top: calc(30.61% - 15px);
+  white-space: nowrap;
+  width: 479px;
+}
+
+.home-1900 .wunderkind-original-design-GA1EoY.bp4-animate-enter2 {
+  animation: bp4-animate-enter2-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-1900 .for-people-who-defin-GA1EoY {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  height: 98px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 0;
+  position: absolute;
+  right: calc(26.06% - 144px);
+  text-align: left;
+  top: calc(35.82% - 35px);
+  width: 554px;
+}
+
+.home-1900 .for-people-who-defin-GA1EoY.bp4-animate-enter3 {
+  animation: bp4-animate-enter3-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-1900 .gruppe-263-GA1EoY {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 58px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(39.01% - 103px);
+  top: calc(41.79% - 24px);
+  transition: all 0.2s ease;
+  width: 264px;
+}
+
+.home-1900 .gruppe-263-GA1EoY.bp4-animate-enter4 {
+  animation: bp4-animate-enter4-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-1900 .gruppe-263-GA1EoY:hover {
+  transform: translate(0, -5px);
+}
+
+.home-1900 .shop-vBCW88 {
+  background-color: transparent;
+  bottom: calc(41.07% - 12px);
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  position: absolute;
+  right: calc(49.52% - 28px);
+  text-align: left;
+  white-space: nowrap;
+  width: 57px;
+}
+
+.home-1900 .rechteck-328-vBCW88 {
+  background-color: transparent;
+  border-radius: 3px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-1900 .detailed_elegant_mar-Tdo8cX {
+  background-color: transparent;
+  height: 1715px;
+  left: -216px;
+  object-fit: cover;
+  position: absolute;
+  top: 1082px;
+  width: 2422px;
+}
+
+.home-1900 .linie-39-GA1EoY {
+  background-color: transparent;
+  bottom: 30.11%;
+  display: block;
+  height: 1px;
+  left: calc(50.00% - 620px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 1241px;
+}
+
+.home-1900 .linie-39-GA1EoY.bp4-animate-enter5 {
+  animation: bp4-animate-enter5-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-1900 .gruppe-265-GA1EoY {
+  background-color: transparent;
+  bottom: calc(21.16% - 14px);
+  display: block;
+  height: 66px;
+  left: calc(29.98% - 24px);
+  opacity: 0;
+  position: absolute;
+  width: 79px;
+}
+
+.home-1900 .gruppe-265-GA1EoY.bp4-animate-enter6 {
+  animation: bp4-animate-enter6-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-1900 .produkte-AFOVuM {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(3.49% - 1px);
+  white-space: nowrap;
+  width: 78px;
+}
+
+.home-1900 .edition-one-AFOVuM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(107.61% - 22px);
+  white-space: nowrap;
+  width: 81px;
+}
+
+.home-1900 .gruppe-264-GA1EoY {
+  background-color: transparent;
+  bottom: 203px;
+  display: block;
+  height: 195px;
+  left: 326px;
+  opacity: 0;
+  position: absolute;
+  width: 107px;
+}
+
+.home-1900 .gruppe-264-GA1EoY.bp4-animate-enter7 {
+  animation: bp4-animate-enter7-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-1900 .recht-xtmxGc {
+  background-color: transparent;
+  height: 23px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 0.87%;
+  white-space: nowrap;
+  width: 51px;
+}
+
+.home-1900 .datenschutz-xtmxGc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 0.22%;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(28.29% - 6px);
+  white-space: nowrap;
+  width: 89px;
+}
+
+.home-1900 .impressum-xtmxGc {
+  background-color: transparent;
+  bottom: 82px;
+  cursor: pointer;
+  height: 20px;
+  left: 0.21%;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.home-1900 .ag-bs-xtmxGc {
+  background-color: transparent;
+  bottom: 40px;
+  cursor: pointer;
+  height: 20px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.home-1900 .widerrufsrecht-xtmxGc {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 109px;
+}
+
+.home-1900 .gruppe-267-GA1EoY {
+  background-color: transparent;
+  bottom: 69px;
+  display: block;
+  height: 23px;
+  opacity: 0;
+  position: absolute;
+  right: calc(47.60% - 45px);
+  width: 94px;
+}
+
+.home-1900 .gruppe-267-GA1EoY.bp4-animate-enter8 {
+  animation: bp4-animate-enter8-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter8-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-1900 .iconfinder_icon-social-facebook_211902-Zpx9mI {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(100.00% - 12px);
+  width: 12px;
+}
+
+.home-1900 .comp_x5-f_173-instagram-Zpx9mI {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  width: 23px;
+}
+
+.home-1900 .gruppe-251-vso3Z7 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.home-1900 .pfad-302-eEqmPC {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.home-1900 .rechteck-331-GA1EoY {
+  background-color: var(--licorice);
+  bottom: -1px;
+  display: block;
+  height: 44px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.home-1900 .rechteck-331-GA1EoY.bp4-animate-enter9 {
+  animation: bp4-animate-enter9-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter9-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-1900 .wunderkind-original-GA1EoY {
+  background-color: transparent;
+  bottom: 4px;
+  display: block;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0;
+  position: absolute;
+  right: calc(47.08% - 177px);
+  text-align: left;
+  width: 376px;
+}
+
+.home-1900 .wunderkind-original-GA1EoY.bp4-animate-enter10 {
+  animation: bp4-animate-enter10-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter10-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-1900 .wko_white_transparent-GA1EoY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 202px;
+  left: 252px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -15px;
+  transition: all 1s ease;
+  width: 269px;
+}
+
+.home-1900 .wko_white_transparent-GA1EoY:hover {
+  transform: scale(1.1);
+}
+
+.home-1900 .gruppe-262-GA1EoY {
+  background-color: transparent;
+  height: 21px;
+  position: absolute;
+  right: calc(25.94% - 112px);
+  top: 86px;
+  width: 432px;
+}
+
+.home-1900 .produkte-DSVWVL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  transition: all 2s ease;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.home-1900 .produkte-DSVWVL:hover {
+  opacity: 0;
+}
+
+.home-1900 .ber-uns-DSVWVL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: calc(48.48% - 36px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  transition: all 2s ease;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.home-1900 .ber-uns-DSVWVL:hover {
+  opacity: 0;
+}
+
+.home-1900 .kontakt-DSVWVL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: calc(100.55% - 68px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  transition: all 2s ease;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.home-1900 .kontakt-DSVWVL:hover {
+  opacity: 0;
+}
+/* screen - home-375 */
+
+.home-375 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1316px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.home-375 .home-tbNibT {
+  background-color: transparent;
+  display: block;
+  height: 800px;
+  left: -148px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: -33px;
+  width: calc(100.00% + 825px);
+}
+
+.home-375 .home-tbNibT.bp1-animate-enter {
+  animation: bp1-animate-enter-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-375 .rechteck-326-tbNibT {
+  background-color: var(--white);
+  height: 106px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-375 .detailed_elegant_mar-tbNibT {
+  background-color: transparent;
+  height: 280px;
+  left: -10px;
+  object-fit: cover;
+  position: absolute;
+  top: -174px;
+  width: calc(100.00% + 20px);
+}
+
+.home-375 .rechteck-329-tbNibT {
+  background-color: var(--white);
+  bottom: calc(30.68% - 65px);
+  display: block;
+  height: 211px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.home-375 .rechteck-329-tbNibT.bp1-animate-enter1 {
+  animation: bp1-animate-enter1-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-375 .gruppe-283-tbNibT {
+  background-color: transparent;
+  bottom: 631px;
+  display: block;
+  height: 232px;
+  left: calc(50.00% - 155px);
+  opacity: 0;
+  position: absolute;
+  width: 310px;
+}
+
+.home-375 .gruppe-283-tbNibT.bp1-animate-enter2 {
+  animation: bp1-animate-enter2-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-375 .wunderkind-original-design-IlYyDa {
+  background-color: transparent;
+  color: var(--gallery);
+  font-family: var(--font-family-_applesystemuifont-medium);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 500;
+  height: 31px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0.99%;
+  white-space: nowrap;
+  width: 312px;
+}
+
+.home-375 .for-people-who-defin-IlYyDa {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: 100px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: calc(34.34% - 34px);
+  width: 282px;
+}
+
+.home-375 .shop-IlYyDa {
+  background-color: transparent;
+  bottom: calc(5.99% - 2px);
+  height: 32px;
+  left: calc(49.15% - 33px);
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  width: 67px;
+}
+
+.home-375 .rechteck-328-IlYyDa {
+  background-color: transparent;
+  border-radius: 3px;
+  bottom: 0px;
+  cursor: pointer;
+  height: 58px;
+  left: calc(43.59% - 115px);
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 264px;
+}
+
+.home-375 .rechteck-328-IlYyDa:hover {
+  transform: translate(0, -5px);
+}
+
+.home-375 .detailed_elegant_mar-PMBLwv {
+  background-color: transparent;
+  bottom: -1165px;
+  height: 1715px;
+  left: -27px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 2047px);
+}
+
+.home-375 .linie-39-tbNibT {
+  background-color: transparent;
+  bottom: 37.19%;
+  display: block;
+  height: 1px;
+  left: calc(50.00% - 150px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 301px;
+}
+
+.home-375 .linie-39-tbNibT.bp1-animate-enter3 {
+  animation: bp1-animate-enter3-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-375 .gruppe-285-tbNibT {
+  background-color: transparent;
+  bottom: 330px;
+  display: block;
+  height: 60px;
+  left: calc(48.66% - 27px);
+  opacity: 0;
+  position: absolute;
+  width: 56px;
+}
+
+.home-375 .gruppe-285-tbNibT.bp1-animate-enter4 {
+  animation: bp1-animate-enter4-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-375 .produkte-AYb9LB {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% - 3px);
+}
+
+.home-375 .edition-one-AYb9LB {
+  background-color: transparent;
+  bottom: -3px;
+  cursor: pointer;
+  height: 14px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.home-375 .gruppe-284-tbNibT {
+  background-color: transparent;
+  bottom: 243px;
+  display: block;
+  height: 147px;
+  left: 57px;
+  opacity: 0;
+  position: absolute;
+  width: 75px;
+}
+
+.home-375 .gruppe-284-tbNibT.bp1-animate-enter5 {
+  animation: bp1-animate-enter5-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-375 .recht-3wBPNI {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.home-375 .datenschutz-3wBPNI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: calc(36.84% - 5px);
+  white-space: nowrap;
+  width: 63px;
+}
+
+.home-375 .impressum-3wBPNI {
+  background-color: transparent;
+  bottom: calc(41.35% - 6px);
+  cursor: pointer;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 55px;
+}
+
+.home-375 .ag-bs-3wBPNI {
+  background-color: transparent;
+  bottom: calc(19.55% - 3px);
+  cursor: pointer;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 31px;
+}
+
+.home-375 .widerrufsrecht-3wBPNI {
+  background-color: transparent;
+  bottom: -3px;
+  cursor: pointer;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.home-375 .gruppe-282-tbNibT {
+  background-color: transparent;
+  bottom: 66px;
+  display: block;
+  height: 19px;
+  opacity: 0;
+  position: absolute;
+  right: calc(50.00% - 25px);
+  width: 51px;
+}
+
+.home-375 .gruppe-282-tbNibT.bp1-animate-enter6 {
+  animation: bp1-animate-enter6-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-375 .iconfinder_icon-social-facebook_211902-91bhsf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 9px;
+}
+
+.home-375 .comp_x5-f_173-instagram-91bhsf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 19px;
+}
+
+.home-375 .gruppe-251-sV9Nx1 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.home-375 .pfad-302-qefvpU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-375 .rechteck-331-tbNibT {
+  background-color: var(--licorice);
+  bottom: -4px;
+  display: block;
+  height: 44px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.home-375 .rechteck-331-tbNibT.bp1-animate-enter7 {
+  animation: bp1-animate-enter7-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-375 .wunderkind-original-tbNibT {
+  background-color: transparent;
+  bottom: 3px;
+  display: block;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 7px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.43% - 98px);
+  text-align: left;
+  width: 198px;
+}
+
+.home-375 .wunderkind-original-tbNibT.bp1-animate-enter8 {
+  animation: bp1-animate-enter8-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter8-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-375 .wko_white_transparent-tbNibT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 120px;
+  left: -17px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -6px;
+  transition: all 1s ease;
+  width: 160px;
+}
+
+.home-375 .wko_white_transparent-tbNibT:hover {
+  transform: scale(1.1);
+}
+
+.home-375 .gruppe-280-tbNibT {
+  background-color: transparent;
+  height: 12px;
+  position: absolute;
+  right: calc(15.64% - 31px);
+  top: 60px;
+  width: 196px;
+}
+
+.home-375 .produkte-hV0hQ2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.home-375 .produkte-hV0hQ2:hover {
+  opacity: 0;
+}
+
+.home-375 .ber-uns-hV0hQ2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(47.90% - 22px);
+  text-align: left;
+  top: 1px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.home-375 .ber-uns-hV0hQ2:hover {
+  opacity: 0;
+}
+
+.home-375 .kontakt-hV0hQ2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  pointer-events: auto;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 1px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.home-375 .kontakt-hV0hQ2:hover {
+  opacity: 0;
+}
+/* screen - home-767 */
+
+.home-767 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1316px;
+  min-width: 767px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.home-767 .home-yUqB2T {
+  background-color: transparent;
+  display: block;
+  height: 800px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: -34px;
+  width: calc(100.00% + 433px);
+}
+
+.home-767 .home-yUqB2T.bp2-animate-enter {
+  animation: bp2-animate-enter-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-767 .rechteck-326-yUqB2T {
+  background-color: var(--white);
+  height: 187px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-767 .detailed_elegant_mar-yUqB2T {
+  background-color: transparent;
+  height: 1715px;
+  left: -40px;
+  object-fit: cover;
+  position: absolute;
+  top: -1528px;
+  width: calc(100.00% + 1655px);
+}
+
+.home-767 .rechteck-329-yUqB2T {
+  background-color: var(--white);
+  bottom: calc(30.68% - 65px);
+  display: block;
+  height: 211px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.home-767 .rechteck-329-yUqB2T.bp2-animate-enter1 {
+  animation: bp2-animate-enter1-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-767 .gruppe-275-yUqB2T {
+  background-color: transparent;
+  display: block;
+  height: 250px;
+  opacity: 0;
+  position: absolute;
+  right: 137px;
+  top: calc(40.31% - 101px);
+  width: 526px;
+}
+
+.home-767 .gruppe-275-yUqB2T.bp2-animate-enter2 {
+  animation: bp2-animate-enter2-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-767 .wunderkind-original-design-Prkxpa {
+  background-color: transparent;
+  height: 49px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: calc(1.74% - 1px);
+  white-space: nowrap;
+  width: 479px;
+}
+
+.home-767 .for-people-who-defin-Prkxpa {
+  background-color: transparent;
+  bottom: calc(47.21% - 46px);
+  color: var(--white);
+  font-family: var(--font-family-_applesystemuifont-regular);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: 98px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% + 2px);
+}
+
+.home-767 .shop-Prkxpa {
+  background-color: transparent;
+  bottom: 12px;
+  height: 32px;
+  left: calc(21.58% - 14px);
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  width: 67px;
+}
+
+.home-767 .rechteck-328-Prkxpa {
+  background-color: transparent;
+  border-radius: 3px;
+  bottom: 0px;
+  cursor: pointer;
+  height: 58px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 264px;
+}
+
+.home-767 .rechteck-328-Prkxpa:hover {
+  transform: translate(0, -5px);
+}
+
+.home-767 .detailed_elegant_mar-fxTwmm {
+  background-color: transparent;
+  bottom: -1165px;
+  height: 1715px;
+  left: -87px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 1655px);
+}
+
+.home-767 .linie-39-yUqB2T {
+  background-color: transparent;
+  bottom: 37.19%;
+  display: block;
+  height: 1px;
+  left: calc(50.00% - 254px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 509px;
+}
+
+.home-767 .linie-39-yUqB2T.bp2-animate-enter3 {
+  animation: bp2-animate-enter3-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-767 .gruppe-277-yUqB2T {
+  background-color: transparent;
+  bottom: calc(26.32% - 17px);
+  display: block;
+  height: 66px;
+  left: calc(36.43% - 29px);
+  opacity: 0;
+  position: absolute;
+  width: 79px;
+}
+
+.home-767 .gruppe-277-yUqB2T.bp2-animate-enter4 {
+  animation: bp2-animate-enter4-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-767 .produkte-fOsU21 {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% - 1px);
+}
+
+.home-767 .edition-one-fOsU21 {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.home-767 .gruppe-276-yUqB2T {
+  background-color: transparent;
+  bottom: 200px;
+  display: block;
+  height: 195px;
+  left: 132px;
+  opacity: 0;
+  position: absolute;
+  width: 107px;
+}
+
+.home-767 .gruppe-276-yUqB2T.bp2-animate-enter5 {
+  animation: bp2-animate-enter5-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-767 .recht-ijNjV0 {
+  background-color: transparent;
+  height: 23px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 51px;
+}
+
+.home-767 .datenschutz-ijNjV0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(28.29% - 6px);
+  white-space: nowrap;
+  width: 89px;
+}
+
+.home-767 .impressum-ijNjV0 {
+  background-color: transparent;
+  bottom: calc(47.14% - 9px);
+  cursor: pointer;
+  height: 20px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.home-767 .ag-bs-ijNjV0 {
+  background-color: transparent;
+  bottom: calc(22.57% - 5px);
+  cursor: pointer;
+  height: 20px;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.home-767 .widerrufsrecht-ijNjV0 {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.home-767 .gruppe-279-yUqB2T {
+  background-color: transparent;
+  bottom: 66px;
+  display: block;
+  height: 19px;
+  left: calc(50.00% - 25px);
+  opacity: 0;
+  position: absolute;
+  width: 49px;
+}
+
+.home-767 .gruppe-279-yUqB2T.bp2-animate-enter6 {
+  animation: bp2-animate-enter6-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-767 .iconfinder_icon-social-facebook_211902-pwSUGp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 9px;
+}
+
+.home-767 .comp_x5-f_173-instagram-pwSUGp {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 19px;
+}
+
+.home-767 .gruppe-251-r2ESxF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.home-767 .pfad-302-u2zDTU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.home-767 .rechteck-331-yUqB2T {
+  background-color: var(--licorice);
+  bottom: -4px;
+  display: block;
+  height: 44px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.home-767 .rechteck-331-yUqB2T.bp2-animate-enter7 {
+  animation: bp2-animate-enter7-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-767 .wunderkind-original-yUqB2T {
+  background-color: transparent;
+  bottom: 2px;
+  display: block;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0;
+  position: absolute;
+  right: calc(48.25% - 136px);
+  text-align: left;
+  width: 281px;
+}
+
+.home-767 .wunderkind-original-yUqB2T.bp2-animate-enter8 {
+  animation: bp2-animate-enter8-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter8-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.home-767 .wko_white_transparent-yUqB2T {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 202px;
+  left: 45px;
+  object-fit: cover;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: -15px;
+  transform: translate(-25px, 0);
+  transition: all 1s ease;
+  width: 269px;
+}
+
+.home-767 .wko_white_transparent-yUqB2T.bp2-animate-enter9 {
+  animation: bp2-animate-enter9-frames 0.30s linear 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(-25px, 0);
+}
+
+@keyframes bp2-animate-enter9-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.home-767 .wko_white_transparent-yUqB2T:hover {
+  transform: scale(1.1);
+}
+
+.home-767 .gruppe-274-yUqB2T {
+  background-color: transparent;
+  height: 21px;
+  position: absolute;
+  right: calc(17.86% - 54px);
+  top: 86px;
+  width: 305px;
+}
+
+.home-767 .produkte-LXRKsw {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.home-767 .produkte-LXRKsw:hover {
+  opacity: 0;
+}
+
+.home-767 .ber-uns-LXRKsw {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(48.04% - 36px);
+  text-align: left;
+  top: 2px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.home-767 .ber-uns-LXRKsw:hover {
+  opacity: 0;
+}
+
+.home-767 .kontakt-LXRKsw {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 2px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.home-767 .kontakt-LXRKsw:hover {
+  opacity: 0;
+}
+@media screen and (max-width: 766px) {
+  .screen.home-1900 { 
+    display: none;
+   }
+  .screen.home-1200 { 
+    display: none;
+   }
+  .screen.home-767 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 767px) and (max-width: 1199px) {
+  .screen.home-1900 { 
+    display: none;
+   }
+  .screen.home-1200 { 
+    display: none;
+   }
+  .screen.home-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1200px) and (max-width: 1899px) {
+  .screen.home-1900 { 
+    display: none;
+   }
+  .screen.home-767 { 
+    display: none;
+   }
+  .screen.home-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1900px) {
+  .screen.home-1200 { 
+    display: none;
+   }
+  .screen.home-767 { 
+    display: none;
+   }
+  .screen.home-375 { 
+    display: none;
+   }
+}
