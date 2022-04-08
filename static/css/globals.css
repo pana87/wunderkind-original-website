@@ -2,20 +2,17 @@
   font-family: ".AppleSystemUIFont-Regular";
   font-style: normal;
   font-weight: 400;
-  src: url("../fonts/SF-Pro-Display-Regular.otf") format("opentype");
+  src: url("../fonts/Simple Beauty.otf") format("opentype");
 }
 @font-face {
-  font-family: "FormaDJR Micro-Bold";
+  font-family: ".AppleSystemUIFont-Bold";
   font-style: normal;
   font-weight: 700;
-  src: url("../fonts/FormaDJRMicro-Bold.ttf") format("truetype");
+  src: url("../fonts/SFPRODISPLAYBOLD.OTF");
 }
-@font-face {
-  font-family: "FormaDJR Micro-Medium";
-  font-style: normal;
-  font-weight: 500;
-  src: url("../fonts/Forma DJR Micro Medium.otf") format("opentype");
-}
+
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/61aa0c1637bc8119fc5ecef2.61aa0c181a3b9f9d45993252.ITIP45D.hcp.png");
 
 .screen textarea:focus,
 .screen input:focus {
