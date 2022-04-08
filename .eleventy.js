@@ -5,7 +5,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addTransform("replace-url", (content) => {
     const url = process.env.URL || "http://localhost:8080"
-    const result = content.replace(/https:\/\/borbus-shop.com/g, url)
+    const result = content.replace(/https:\/\/wunderkind-original.de/g, url)
     return result
   })
 

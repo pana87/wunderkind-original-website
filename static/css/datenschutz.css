@@ -1,0 +1,1756 @@
+/* screen - datenschutz */
+
+.datenschutz {
+  background-color: var(--white);
+  height: 2470px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1900px;
+}
+
+.datenschutz .detailed_elegant_mar-SVsGi2 {
+  background-color: transparent;
+  height: 2459px;
+  left: -682px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 3470px;
+}
+
+.datenschutz .datenschutzerklrung1-SVsGi2 {
+  background-color: transparent;
+  display: block;
+  height: 1574px;
+  left: 431px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 255px;
+  width: 1040px;
+}
+
+.datenschutz .datenschutzerklrung1-SVsGi2.bp4-animate-enter101 {
+  animation: bp4-animate-enter101-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter101-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz .wko_white_transparent-SVsGi2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 202px;
+  left: 252px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -15px;
+  transition: all 1s ease;
+  width: 269px;
+}
+
+.datenschutz .wko_white_transparent-SVsGi2:hover {
+  transform: scale(1.1);
+}
+
+.datenschutz .linie-42-SVsGi2 {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: 330px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 1978px;
+  width: 1241px;
+}
+
+.datenschutz .linie-42-SVsGi2.bp4-animate-enter102 {
+  animation: bp4-animate-enter102-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter102-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz .rechteck-337-SVsGi2 {
+  background-color: var(--licorice);
+  display: block;
+  height: 44px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 2428px;
+  width: 1900px;
+}
+
+.datenschutz .rechteck-337-SVsGi2.bp4-animate-enter103 {
+  animation: bp4-animate-enter103-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter103-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz .gruppe-306-SVsGi2 {
+  background-color: transparent;
+  display: block;
+  height: 23px;
+  left: 903px;
+  opacity: 0;
+  position: absolute;
+  top: 2370px;
+  width: 94px;
+}
+
+.datenschutz .gruppe-306-SVsGi2.bp4-animate-enter104 {
+  animation: bp4-animate-enter104-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter104-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz .iconfinder_icon-social-facebook_211902-l5bsVc {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 23px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 12px;
+}
+
+.datenschutz .comp_x5-f_173-instagram-l5bsVc {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  width: 23px;
+}
+
+.datenschutz .gruppe-251-ONRjFT {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutz .pfad-302-9GfxkL {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.datenschutz .gruppe-262-SVsGi2 {
+  background-color: transparent;
+  height: 22px;
+  left: 1087px;
+  position: absolute;
+  top: 86px;
+  width: 435px;
+}
+
+.datenschutz .produkte-FVQh81 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  transition: all 2s ease;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.datenschutz .produkte-FVQh81:hover {
+  opacity: 0;
+}
+
+.datenschutz .ber-uns-FVQh81 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: calc(48.35% - 36px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  transition: all 2s ease;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.datenschutz .ber-uns-FVQh81:hover {
+  opacity: 0;
+}
+
+.datenschutz .kontakt-FVQh81 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: calc(100.55% - 69px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  transition: all 2s ease;
+  white-space: nowrap;
+  width: 69px;
+}
+
+.datenschutz .kontakt-FVQh81:hover {
+  opacity: 0;
+}
+
+.datenschutz .gruppe-265-SVsGi2 {
+  background-color: transparent;
+  display: block;
+  height: 68px;
+  left: 546px;
+  opacity: 0;
+  position: absolute;
+  top: 2079px;
+  width: 82px;
+}
+
+.datenschutz .gruppe-265-SVsGi2.bp4-animate-enter105 {
+  animation: bp4-animate-enter105-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter105-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz .produkte-bj1jU6 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(4.55% - 1px);
+  white-space: nowrap;
+  width: 79px;
+}
+
+.datenschutz .edition-one-bj1jU6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(107.29% - 21px);
+  white-space: nowrap;
+  width: 82px;
+}
+
+.datenschutz .gruppe-264-SVsGi2 {
+  background-color: transparent;
+  display: block;
+  height: 197px;
+  left: 326px;
+  opacity: 0;
+  position: absolute;
+  top: 2079px;
+  width: 107px;
+}
+
+.datenschutz .gruppe-264-SVsGi2.bp4-animate-enter106 {
+  animation: bp4-animate-enter106-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter106-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz .recht-x4s3fO {
+  background-color: transparent;
+  height: 24px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 1.16%;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.datenschutz .datenschutz-x4s3fO {
+  background-color: transparent;
+  height: 20px;
+  left: 0.20%;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(29.10% - 6px);
+  white-space: nowrap;
+  width: 85px;
+}
+
+.datenschutz .impressum-x4s3fO {
+  background-color: transparent;
+  bottom: 82px;
+  cursor: pointer;
+  height: 20px;
+  left: 0.21%;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.datenschutz .ag-bs-x4s3fO {
+  background-color: transparent;
+  bottom: 40px;
+  cursor: pointer;
+  height: 20px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 41px;
+}
+
+.datenschutz .widerrufsrecht-x4s3fO {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 107px;
+}
+
+.datenschutz .wunderkind-original-SVsGi2 {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 763px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 2443px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.datenschutz .wunderkind-original-SVsGi2.bp4-animate-enter107 {
+  animation: bp4-animate-enter107-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter107-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+/* screen - datenschutz-1 */
+
+.datenschutz-1 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2509px;
+  min-width: 1200px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.datenschutz-1 .detailed_elegant_mar-G1zo2e {
+  background-color: transparent;
+  height: calc(100.00% + 2110px);
+  left: -2595px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 5320px);
+}
+
+.datenschutz-1 .datenschutzerklrung1-G1zo2e {
+  background-color: transparent;
+  display: block;
+  height: 1763px;
+  left: 197px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: calc(100.00% - 366px);
+}
+
+.datenschutz-1 .datenschutzerklrung1-G1zo2e.bp3-animate-enter95 {
+  animation: bp3-animate-enter95-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter95-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz-1 .wko_white_transparent-G1zo2e {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 202px;
+  left: 160px;
+  object-fit: cover;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: -15px;
+  transform: translate(-25px, 0);
+  transition: all 1s ease;
+  width: 269px;
+}
+
+.datenschutz-1 .wko_white_transparent-G1zo2e.bp3-animate-enter96 {
+  animation: bp3-animate-enter96-frames 0.30s linear 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(-25px, 0);
+}
+
+@keyframes bp3-animate-enter96-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.datenschutz-1 .wko_white_transparent-G1zo2e:hover {
+  transform: scale(1.1);
+}
+
+.datenschutz-1 .linie-39-G1zo2e {
+  background-color: transparent;
+  bottom: 19.56%;
+  display: block;
+  height: 1px;
+  left: calc(50.00% - 382px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 763px;
+}
+
+.datenschutz-1 .linie-39-G1zo2e.bp3-animate-enter97 {
+  animation: bp3-animate-enter97-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter97-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz-1 .rechteck-331-G1zo2e {
+  background-color: var(--licorice);
+  bottom: -2px;
+  display: block;
+  height: 44px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.datenschutz-1 .rechteck-331-G1zo2e.bp3-animate-enter98 {
+  animation: bp3-animate-enter98-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter98-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz-1 .wunderkind-original-G1zo2e {
+  background-color: transparent;
+  bottom: 12px;
+  display: block;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.89% - 150px);
+  text-align: left;
+  white-space: nowrap;
+  width: 301px;
+}
+
+.datenschutz-1 .wunderkind-original-G1zo2e.bp3-animate-enter99 {
+  animation: bp3-animate-enter99-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter99-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz-1 .gruppe-273-G1zo2e {
+  background-color: transparent;
+  bottom: 63px;
+  display: block;
+  height: 23px;
+  left: calc(50.00% - 39px);
+  opacity: 0;
+  position: absolute;
+  width: 78px;
+}
+
+.datenschutz-1 .gruppe-273-G1zo2e.bp3-animate-enter100 {
+  animation: bp3-animate-enter100-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter100-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz-1 .iconfinder_icon-social-facebook_211902-KOvTBR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.datenschutz-1 .comp_x5-f_173-instagram-KOvTBR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 23px;
+}
+
+.datenschutz-1 .gruppe-251-Mx8Ou3 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutz-1 .pfad-302-SoFeQM {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.datenschutz-1 .gruppe-271-G1zo2e {
+  background-color: transparent;
+  bottom: calc(13.64% - 9px);
+  display: block;
+  height: 68px;
+  left: calc(36.47% - 29px);
+  opacity: 0;
+  position: absolute;
+  width: 80px;
+}
+
+.datenschutz-1 .gruppe-271-G1zo2e.bp3-animate-enter101 {
+  animation: bp3-animate-enter101-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter101-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz-1 .produkte-D1hF9Z {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% - 1px);
+}
+
+.datenschutz-1 .edition-one-D1hF9Z {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutz-1 .gruppe-270-G1zo2e {
+  background-color: transparent;
+  bottom: 204px;
+  display: block;
+  height: 197px;
+  left: 218px;
+  opacity: 0;
+  position: absolute;
+  width: 106px;
+}
+
+.datenschutz-1 .gruppe-270-G1zo2e.bp3-animate-enter102 {
+  animation: bp3-animate-enter102-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter102-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz-1 .recht-pyMFy9 {
+  background-color: transparent;
+  height: 24px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.datenschutz-1 .datenschutz-pyMFy9 {
+  background-color: transparent;
+  height: 20px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(29.10% - 6px);
+  white-space: nowrap;
+  width: 85px;
+}
+
+.datenschutz-1 .impressum-pyMFy9 {
+  background-color: transparent;
+  bottom: calc(46.61% - 9px);
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.datenschutz-1 .ag-bs-pyMFy9 {
+  background-color: transparent;
+  bottom: calc(22.32% - 4px);
+  cursor: pointer;
+  height: 20px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 41px;
+}
+
+.datenschutz-1 .widerrufsrecht-pyMFy9 {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 20px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutz-1 .gruppe-268-G1zo2e {
+  background-color: transparent;
+  height: 22px;
+  position: absolute;
+  right: calc(21.43% - 74px);
+  top: 86px;
+  width: 346px;
+}
+
+.datenschutz-1 .produkte-xNzZux {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.datenschutz-1 .produkte-xNzZux:hover {
+  opacity: 0;
+}
+
+.datenschutz-1 .ber-uns-xNzZux {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(48.51% - 36px);
+  text-align: left;
+  top: 2px;
+  transition: all 0.9s ease;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.datenschutz-1 .ber-uns-xNzZux:hover {
+  opacity: 0;
+}
+
+.datenschutz-1 .kontakt-xNzZux {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 2px;
+  transition: all 0.9s ease;
+  white-space: nowrap;
+  width: 69px;
+}
+
+.datenschutz-1 .kontakt-xNzZux:hover {
+  opacity: 0;
+}
+/* screen - datenschutz-2 */
+
+.datenschutz-2 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2759px;
+  min-width: 767px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.datenschutz-2 .detailed_elegant_mar-mLJ4D2 {
+  background-color: transparent;
+  height: 214.51%;
+  left: -489.27%;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1089.38%;
+}
+
+.datenschutz-2 .datenschutzerklrung1-mLJ4D2 {
+  background-color: transparent;
+  display: block;
+  height: 1944px;
+  left: 115px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: calc(100.00% - 226px);
+}
+
+.datenschutz-2 .datenschutzerklrung1-mLJ4D2.bp2-animate-enter105 {
+  animation: bp2-animate-enter105-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter105-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz-2 .wko_white_transparent-mLJ4D2 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 202px;
+  left: 45px;
+  object-fit: cover;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: -15px;
+  transform: translate(-25px, 0);
+  transition: all 1s ease;
+  width: 269px;
+}
+
+.datenschutz-2 .wko_white_transparent-mLJ4D2.bp2-animate-enter106 {
+  animation: bp2-animate-enter106-frames 0.30s linear 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(-25px, 0);
+}
+
+@keyframes bp2-animate-enter106-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.datenschutz-2 .wko_white_transparent-mLJ4D2:hover {
+  transform: scale(1.1);
+}
+
+.datenschutz-2 .linie-39-mLJ4D2 {
+  background-color: transparent;
+  bottom: 17.86%;
+  display: block;
+  height: 1px;
+  left: calc(50.00% - 254px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 509px;
+}
+
+.datenschutz-2 .linie-39-mLJ4D2.bp2-animate-enter107 {
+  animation: bp2-animate-enter107-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter107-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz-2 .gruppe-279-mLJ4D2 {
+  background-color: transparent;
+  bottom: 70px;
+  display: block;
+  height: 19px;
+  left: calc(50.00% - 25px);
+  opacity: 0;
+  position: absolute;
+  width: 49px;
+}
+
+.datenschutz-2 .gruppe-279-mLJ4D2.bp2-animate-enter108 {
+  animation: bp2-animate-enter108-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter108-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz-2 .iconfinder_icon-social-facebook_211902-JKEWPp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 9px;
+}
+
+.datenschutz-2 .comp_x5-f_173-instagram-JKEWPp {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 19px;
+}
+
+.datenschutz-2 .gruppe-251-Idxc5L {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutz-2 .pfad-302-1YYKnq {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutz-2 .rechteck-331-mLJ4D2 {
+  background-color: var(--licorice);
+  bottom: 0px;
+  display: block;
+  height: 44px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.datenschutz-2 .rechteck-331-mLJ4D2.bp2-animate-enter109 {
+  animation: bp2-animate-enter109-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter109-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz-2 .wunderkind-original-mLJ4D2 {
+  background-color: transparent;
+  bottom: 10px;
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.81% - 125px);
+  text-align: left;
+  white-space: nowrap;
+  width: 251px;
+}
+
+.datenschutz-2 .wunderkind-original-mLJ4D2.bp2-animate-enter110 {
+  animation: bp2-animate-enter110-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter110-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz-2 .gruppe-277-mLJ4D2 {
+  background-color: transparent;
+  bottom: calc(13.08% - 9px);
+  display: block;
+  height: 68px;
+  left: calc(36.02% - 29px);
+  opacity: 0;
+  position: absolute;
+  width: 80px;
+}
+
+.datenschutz-2 .gruppe-277-mLJ4D2.bp2-animate-enter111 {
+  animation: bp2-animate-enter111-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter111-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz-2 .produkte-VqM75x {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% - 1px);
+}
+
+.datenschutz-2 .edition-one-VqM75x {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutz-2 .gruppe-276-mLJ4D2 {
+  background-color: transparent;
+  bottom: 223px;
+  display: block;
+  height: 197px;
+  left: 129px;
+  opacity: 0;
+  position: absolute;
+  width: 105px;
+}
+
+.datenschutz-2 .gruppe-276-mLJ4D2.bp2-animate-enter112 {
+  animation: bp2-animate-enter112-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter112-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz-2 .recht-1FMgnP {
+  background-color: transparent;
+  height: 24px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.datenschutz-2 .datenschutz-1FMgnP {
+  background-color: transparent;
+  height: 20px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(29.10% - 6px);
+  white-space: nowrap;
+  width: 85px;
+}
+
+.datenschutz-2 .impressum-1FMgnP {
+  background-color: transparent;
+  bottom: calc(46.61% - 9px);
+  cursor: pointer;
+  height: 20px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.datenschutz-2 .ag-bs-1FMgnP {
+  background-color: transparent;
+  bottom: calc(22.32% - 4px);
+  cursor: pointer;
+  height: 20px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 41px;
+}
+
+.datenschutz-2 .widerrufsrecht-1FMgnP {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutz-2 .gruppe-274-mLJ4D2 {
+  background-color: transparent;
+  height: 22px;
+  position: absolute;
+  right: calc(17.68% - 54px);
+  top: 86px;
+  width: 306px;
+}
+
+.datenschutz-2 .produkte-6SEBLS {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.datenschutz-2 .produkte-6SEBLS:hover {
+  opacity: 0;
+}
+
+.datenschutz-2 .ber-uns-6SEBLS {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(48.27% - 36px);
+  text-align: left;
+  top: 2px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.datenschutz-2 .ber-uns-6SEBLS:hover {
+  opacity: 0;
+}
+
+.datenschutz-2 .kontakt-6SEBLS {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 2px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 69px;
+}
+
+.datenschutz-2 .kontakt-6SEBLS:hover {
+  opacity: 0;
+}
+/* screen - datenschutz-3 */
+
+.datenschutz-3 {
+  background-color: var(--white);
+  height: 3712px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.datenschutz-3 .detailed_elegant_mar-opd9Nm {
+  background-color: transparent;
+  height: 9635px;
+  left: -6593px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13601px;
+}
+
+.datenschutz-3 .datenschutzerklrung1-opd9Nm {
+  background-color: transparent;
+  display: block;
+  height: 2927px;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 251px;
+  width: 255px;
+}
+
+.datenschutz-3 .datenschutzerklrung1-opd9Nm.bp1-animate-enter102 {
+  animation: bp1-animate-enter102-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter102-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz-3 .linie-39-opd9Nm {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: 37px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 3218px;
+  width: 301px;
+}
+
+.datenschutz-3 .linie-39-opd9Nm.bp1-animate-enter103 {
+  animation: bp1-animate-enter103-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter103-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz-3 .rechteck-331-opd9Nm {
+  background-color: var(--licorice);
+  display: block;
+  height: 44px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 3668px;
+  width: 375px;
+}
+
+.datenschutz-3 .rechteck-331-opd9Nm.bp1-animate-enter104 {
+  animation: bp1-animate-enter104-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter104-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz-3 .wunderkind-original-opd9Nm {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 7px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 3686px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.datenschutz-3 .wunderkind-original-opd9Nm.bp1-animate-enter105 {
+  animation: bp1-animate-enter105-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter105-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz-3 .gruppe-282-opd9Nm {
+  background-color: transparent;
+  display: block;
+  height: 19px;
+  left: 162px;
+  opacity: 0;
+  position: absolute;
+  top: 3632px;
+  width: 51px;
+}
+
+.datenschutz-3 .gruppe-282-opd9Nm.bp1-animate-enter106 {
+  animation: bp1-animate-enter106-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter106-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz-3 .iconfinder_icon-social-facebook_211902-pP6SxZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 9px;
+}
+
+.datenschutz-3 .comp_x5-f_173-instagram-pP6SxZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 19px;
+}
+
+.datenschutz-3 .gruppe-251-RaawVx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutz-3 .pfad-302-cIkCuZ {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutz-3 .wko_white_transparent-opd9Nm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 120px;
+  left: -17px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -6px;
+  transition: all 1s ease;
+  width: 160px;
+}
+
+.datenschutz-3 .wko_white_transparent-opd9Nm:hover {
+  transform: scale(1.1);
+}
+
+.datenschutz-3 .gruppe-285-opd9Nm {
+  background-color: transparent;
+  display: block;
+  height: 61px;
+  left: 135px;
+  opacity: 0;
+  position: absolute;
+  top: 3329px;
+  width: 56px;
+}
+
+.datenschutz-3 .gruppe-285-opd9Nm.bp1-animate-enter107 {
+  animation: bp1-animate-enter107-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter107-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz-3 .produkte-QzQAeJ {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% - 1px);
+}
+
+.datenschutz-3 .edition-one-QzQAeJ {
+  background-color: transparent;
+  bottom: -3px;
+  cursor: pointer;
+  height: 14px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutz-3 .gruppe-284-opd9Nm {
+  background-color: transparent;
+  display: block;
+  height: 148px;
+  left: 37px;
+  opacity: 0;
+  position: absolute;
+  top: 3329px;
+  width: 72px;
+}
+
+.datenschutz-3 .gruppe-284-opd9Nm.bp1-animate-enter108 {
+  animation: bp1-animate-enter108-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter108-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutz-3 .recht-AMsTZ6 {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.datenschutz-3 .datenschutz-AMsTZ6 {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: calc(37.31% - 5px);
+  white-space: nowrap;
+  width: 57px;
+}
+
+.datenschutz-3 .impressum-AMsTZ6 {
+  background-color: transparent;
+  bottom: calc(41.04% - 6px);
+  cursor: pointer;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 51px;
+}
+
+.datenschutz-3 .ag-bs-AMsTZ6 {
+  background-color: transparent;
+  bottom: calc(19.40% - 3px);
+  cursor: pointer;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 28px;
+}
+
+.datenschutz-3 .widerrufsrecht-AMsTZ6 {
+  background-color: transparent;
+  bottom: -3px;
+  cursor: pointer;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutz-3 .gruppe-280-opd9Nm {
+  background-color: transparent;
+  height: 12px;
+  left: 151px;
+  position: absolute;
+  top: 61px;
+  width: 195px;
+}
+
+.datenschutz-3 .produkte-WBziAk {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.datenschutz-3 .produkte-WBziAk:hover {
+  opacity: 0;
+}
+
+.datenschutz-3 .ber-uns-WBziAk {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(47.90% - 21px);
+  text-align: left;
+  top: 1px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.datenschutz-3 .ber-uns-WBziAk:hover {
+  opacity: 0;
+}
+
+.datenschutz-3 .kontakt-WBziAk {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  pointer-events: auto;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 1px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 39px;
+}
+
+.datenschutz-3 .kontakt-WBziAk:hover {
+  opacity: 0;
+}
+@media screen and (max-width: 766px) {
+  .screen.datenschutz { 
+    display: none;
+   }
+  .screen.datenschutz-1 { 
+    display: none;
+   }
+  .screen.datenschutz-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 767px) and (max-width: 1199px) {
+  .screen.datenschutz { 
+    display: none;
+   }
+  .screen.datenschutz-1 { 
+    display: none;
+   }
+  .screen.datenschutz-3 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1200px) and (max-width: 1899px) {
+  .screen.datenschutz { 
+    display: none;
+   }
+  .screen.datenschutz-2 { 
+    display: none;
+   }
+  .screen.datenschutz-3 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1900px) {
+  .screen.datenschutz-1 { 
+    display: none;
+   }
+  .screen.datenschutz-2 { 
+    display: none;
+   }
+  .screen.datenschutz-3 { 
+    display: none;
+   }
+}

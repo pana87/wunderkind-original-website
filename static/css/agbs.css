@@ -1,0 +1,1762 @@
+/* screen - agbs */
+
+.agbs {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2716px;
+  min-width: 1900px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.agbs .detailed_elegant_mar-3fSiHD {
+  background-color: transparent;
+  height: calc(100.00% + 2087px);
+  left: -2337px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 4880px);
+}
+
+.agbs .wunderkind-original-3fSiHD {
+  background-color: transparent;
+  display: block;
+  height: 1850px;
+  left: 431px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 255px;
+  width: calc(100.00% - 860px);
+}
+
+.agbs .wunderkind-original-3fSiHD.bp4-animate-enter80 {
+  animation: bp4-animate-enter80-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter80-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs .linie-42-3fSiHD {
+  background-color: transparent;
+  bottom: 18.15%;
+  display: block;
+  height: 1px;
+  left: calc(50.00% - 620px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 1241px;
+}
+
+.agbs .linie-42-3fSiHD.bp4-animate-enter81 {
+  animation: bp4-animate-enter81-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter81-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs .rechteck-337-3fSiHD {
+  background-color: var(--licorice);
+  bottom: 0px;
+  display: block;
+  height: 44px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.agbs .rechteck-337-3fSiHD.bp4-animate-enter82 {
+  animation: bp4-animate-enter82-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter82-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs .wunderkind-original-UwUthl {
+  background-color: transparent;
+  bottom: 10px;
+  display: block;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.93% - 188px);
+  text-align: left;
+  white-space: nowrap;
+  width: 376px;
+}
+
+.agbs .wunderkind-original-UwUthl.bp4-animate-enter83 {
+  animation: bp4-animate-enter83-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter83-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs .gruppe-306-3fSiHD {
+  background-color: transparent;
+  bottom: 79px;
+  display: block;
+  height: 23px;
+  left: calc(50.00% - 47px);
+  opacity: 0;
+  position: absolute;
+  width: 94px;
+}
+
+.agbs .gruppe-306-3fSiHD.bp4-animate-enter84 {
+  animation: bp4-animate-enter84-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter84-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs .iconfinder_icon-social-facebook_211902-j3Jz5q {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 23px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 12px;
+}
+
+.agbs .comp_x5-f_173-instagram-j3Jz5q {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  width: 23px;
+}
+
+.agbs .gruppe-251-Yywu2V {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs .pfad-302-63iecH {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs .wko_white_transparent-3fSiHD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 202px;
+  left: 252px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -15px;
+  transition: all 1s ease;
+  width: 269px;
+}
+
+.agbs .wko_white_transparent-3fSiHD:hover {
+  transform: scale(1.1);
+}
+
+.agbs .gruppe-265-3fSiHD {
+  background-color: transparent;
+  bottom: calc(12.61% - 9px);
+  display: block;
+  height: 68px;
+  left: calc(30.17% - 24px);
+  opacity: 0;
+  position: absolute;
+  width: 80px;
+}
+
+.agbs .gruppe-265-3fSiHD.bp4-animate-enter85 {
+  animation: bp4-animate-enter85-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter85-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs .produkte-lm9q3X {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(4.55% - 1px);
+  white-space: nowrap;
+  width: 79px;
+}
+
+.agbs .edition-one-lm9q3X {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(107.29% - 21px);
+  white-space: nowrap;
+  width: 82px;
+}
+
+.agbs .gruppe-264-3fSiHD {
+  background-color: transparent;
+  bottom: 205px;
+  display: block;
+  height: 197px;
+  left: 330px;
+  opacity: 0;
+  position: absolute;
+  width: 105px;
+}
+
+.agbs .gruppe-264-3fSiHD.bp4-animate-enter86 {
+  animation: bp4-animate-enter86-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter86-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs .recht-pyhfuq {
+  background-color: transparent;
+  height: 24px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 1.16%;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.agbs .datenschutz-pyhfuq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 0.20%;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(29.10% - 6px);
+  white-space: nowrap;
+  width: 85px;
+}
+
+.agbs .impressum-pyhfuq {
+  background-color: transparent;
+  bottom: 82px;
+  cursor: pointer;
+  height: 20px;
+  left: 0.21%;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.agbs .ag-bs-pyhfuq {
+  background-color: transparent;
+  bottom: 40px;
+  height: 20px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 41px;
+}
+
+.agbs .widerrufsrecht-pyhfuq {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 107px;
+}
+
+.agbs .gruppe-262-3fSiHD {
+  background-color: transparent;
+  height: 22px;
+  position: absolute;
+  right: calc(25.89% - 112px);
+  top: 86px;
+  width: 433px;
+}
+
+.agbs .produkte-XKIxaq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  transition: all 2s ease;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.agbs .produkte-XKIxaq:hover {
+  opacity: 0;
+}
+
+.agbs .ber-uns-XKIxaq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: calc(48.35% - 36px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  transition: all 2s ease;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.agbs .ber-uns-XKIxaq:hover {
+  opacity: 0;
+}
+
+.agbs .kontakt-XKIxaq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: calc(100.55% - 69px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  transition: all 2s ease;
+  white-space: nowrap;
+  width: 69px;
+}
+
+.agbs .kontakt-XKIxaq:hover {
+  opacity: 0;
+}
+/* screen - agbs-1 */
+
+.agbs-1 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2858px;
+  min-width: 1200px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.agbs-1 .detailed_elegant_mar-XulKQB {
+  background-color: transparent;
+  height: calc(100.00% + 457px);
+  left: -1675px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 3480px);
+}
+
+.agbs-1 .wunderkind-original-XulKQB {
+  background-color: transparent;
+  display: block;
+  height: 1960px;
+  left: 197px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: calc(100.00% - 366px);
+}
+
+.agbs-1 .wunderkind-original-XulKQB.bp3-animate-enter71 {
+  animation: bp3-animate-enter71-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter71-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1 .linie-39-XulKQB {
+  background-color: transparent;
+  bottom: 17.24%;
+  display: block;
+  height: 1px;
+  left: calc(50.00% - 382px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 763px;
+}
+
+.agbs-1 .linie-39-XulKQB.bp3-animate-enter72 {
+  animation: bp3-animate-enter72-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter72-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1 .rechteck-331-XulKQB {
+  background-color: var(--licorice);
+  bottom: 0px;
+  display: block;
+  height: 44px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.agbs-1 .rechteck-331-XulKQB.bp3-animate-enter73 {
+  animation: bp3-animate-enter73-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter73-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1 .wunderkind-original-S63GAY {
+  background-color: transparent;
+  bottom: 14px;
+  display: block;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.89% - 150px);
+  text-align: left;
+  white-space: nowrap;
+  width: 301px;
+}
+
+.agbs-1 .wunderkind-original-S63GAY.bp3-animate-enter74 {
+  animation: bp3-animate-enter74-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter74-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1 .gruppe-273-XulKQB {
+  background-color: transparent;
+  bottom: 65px;
+  display: block;
+  height: 23px;
+  left: calc(50.00% - 39px);
+  opacity: 0;
+  position: absolute;
+  width: 78px;
+}
+
+.agbs-1 .gruppe-273-XulKQB.bp3-animate-enter75 {
+  animation: bp3-animate-enter75-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter75-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1 .iconfinder_icon-social-facebook_211902-3nfyo5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.agbs-1 .comp_x5-f_173-instagram-3nfyo5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 23px;
+}
+
+.agbs-1 .gruppe-251-jWZ7br {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-1 .pfad-302-kXF3lT {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.agbs-1 .wko_white_transparent-XulKQB {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 202px;
+  left: 160px;
+  object-fit: cover;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: -15px;
+  transform: translate(-25px, 0);
+  transition: all 1s ease;
+  width: 269px;
+}
+
+.agbs-1 .wko_white_transparent-XulKQB.bp3-animate-enter76 {
+  animation: bp3-animate-enter76-frames 0.30s linear 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(-25px, 0);
+}
+
+@keyframes bp3-animate-enter76-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.agbs-1 .wko_white_transparent-XulKQB:hover {
+  transform: scale(1.1);
+}
+
+.agbs-1 .gruppe-271-XulKQB {
+  background-color: transparent;
+  bottom: calc(11.43% - 8px);
+  display: block;
+  height: 68px;
+  left: calc(36.47% - 29px);
+  opacity: 0;
+  position: absolute;
+  width: 80px;
+}
+
+.agbs-1 .gruppe-271-XulKQB.bp3-animate-enter77 {
+  animation: bp3-animate-enter77-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter77-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1 .produkte-PJbNff {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% - 1px);
+}
+
+.agbs-1 .edition-one-PJbNff {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.agbs-1 .gruppe-270-XulKQB {
+  background-color: transparent;
+  bottom: 190px;
+  display: block;
+  height: 197px;
+  left: 218px;
+  opacity: 0;
+  position: absolute;
+  width: 106px;
+}
+
+.agbs-1 .gruppe-270-XulKQB.bp3-animate-enter78 {
+  animation: bp3-animate-enter78-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter78-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-1 .recht-WnHsBT {
+  background-color: transparent;
+  height: 24px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.agbs-1 .datenschutz-WnHsBT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(29.10% - 6px);
+  white-space: nowrap;
+  width: 85px;
+}
+
+.agbs-1 .impressum-WnHsBT {
+  background-color: transparent;
+  bottom: calc(46.61% - 9px);
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.agbs-1 .ag-bs-WnHsBT {
+  background-color: transparent;
+  bottom: calc(22.32% - 4px);
+  height: 20px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 41px;
+}
+
+.agbs-1 .widerrufsrecht-WnHsBT {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 20px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.agbs-1 .gruppe-268-XulKQB {
+  background-color: transparent;
+  height: 22px;
+  position: absolute;
+  right: calc(21.43% - 74px);
+  top: 86px;
+  width: 346px;
+}
+
+.agbs-1 .produkte-lHIM69 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.agbs-1 .produkte-lHIM69:hover {
+  opacity: 0;
+}
+
+.agbs-1 .ber-uns-lHIM69 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(48.51% - 36px);
+  text-align: left;
+  top: 2px;
+  transition: all 0.9s ease;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.agbs-1 .ber-uns-lHIM69:hover {
+  opacity: 0;
+}
+
+.agbs-1 .kontakt-lHIM69 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 2px;
+  transition: all 0.9s ease;
+  white-space: nowrap;
+  width: 69px;
+}
+
+.agbs-1 .kontakt-lHIM69:hover {
+  opacity: 0;
+}
+/* screen - agbs-2 */
+
+.agbs-2 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 3170px;
+  min-width: 767px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.agbs-2 .detailed_elegant_mar-4bksr5 {
+  background-color: transparent;
+  height: 186.70%;
+  left: -489.27%;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1089.38%;
+}
+
+.agbs-2 .wunderkind-original-4bksr5 {
+  background-color: transparent;
+  display: block;
+  height: 2273px;
+  left: 115px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: calc(100.00% - 226px);
+}
+
+.agbs-2 .wunderkind-original-4bksr5.bp2-animate-enter81 {
+  animation: bp2-animate-enter81-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter81-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-2 .linie-39-4bksr5 {
+  background-color: transparent;
+  bottom: 15.52%;
+  display: block;
+  height: 1px;
+  left: calc(50.00% - 254px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 509px;
+}
+
+.agbs-2 .linie-39-4bksr5.bp2-animate-enter82 {
+  animation: bp2-animate-enter82-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter82-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-2 .gruppe-279-4bksr5 {
+  background-color: transparent;
+  bottom: 69px;
+  display: block;
+  height: 19px;
+  left: calc(50.00% - 25px);
+  opacity: 0;
+  position: absolute;
+  width: 49px;
+}
+
+.agbs-2 .gruppe-279-4bksr5.bp2-animate-enter83 {
+  animation: bp2-animate-enter83-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter83-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-2 .iconfinder_icon-social-facebook_211902-4oUViD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 9px;
+}
+
+.agbs-2 .comp_x5-f_173-instagram-4oUViD {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 19px;
+}
+
+.agbs-2 .gruppe-251-diPH8F {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-2 .pfad-302-EzWSKx {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-2 .rechteck-331-4bksr5 {
+  background-color: var(--licorice);
+  bottom: -2px;
+  display: block;
+  height: 44px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.agbs-2 .rechteck-331-4bksr5.bp2-animate-enter84 {
+  animation: bp2-animate-enter84-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter84-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-2 .wunderkind-original-qgFrnA {
+  background-color: transparent;
+  bottom: 10px;
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.81% - 125px);
+  text-align: left;
+  white-space: nowrap;
+  width: 251px;
+}
+
+.agbs-2 .wunderkind-original-qgFrnA.bp2-animate-enter85 {
+  animation: bp2-animate-enter85-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter85-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-2 .wko_white_transparent-4bksr5 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 202px;
+  left: 45px;
+  object-fit: cover;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: -15px;
+  transform: translate(-25px, 0);
+  transition: all 1s ease;
+  width: 269px;
+}
+
+.agbs-2 .wko_white_transparent-4bksr5.bp2-animate-enter86 {
+  animation: bp2-animate-enter86-frames 0.30s linear 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(-25px, 0);
+}
+
+@keyframes bp2-animate-enter86-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.agbs-2 .wko_white_transparent-4bksr5:hover {
+  transform: scale(1.1);
+}
+
+.agbs-2 .gruppe-277-4bksr5 {
+  background-color: transparent;
+  bottom: calc(10.70% - 7px);
+  display: block;
+  height: 68px;
+  left: calc(36.02% - 29px);
+  opacity: 0;
+  position: absolute;
+  width: 80px;
+}
+
+.agbs-2 .gruppe-277-4bksr5.bp2-animate-enter87 {
+  animation: bp2-animate-enter87-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter87-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-2 .produkte-8Y7Ps4 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% - 1px);
+}
+
+.agbs-2 .edition-one-8Y7Ps4 {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.agbs-2 .gruppe-276-4bksr5 {
+  background-color: transparent;
+  bottom: 203px;
+  display: block;
+  height: 197px;
+  left: 129px;
+  opacity: 0;
+  position: absolute;
+  width: 105px;
+}
+
+.agbs-2 .gruppe-276-4bksr5.bp2-animate-enter88 {
+  animation: bp2-animate-enter88-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter88-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-2 .recht-s5ZuSR {
+  background-color: transparent;
+  height: 24px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.agbs-2 .datenschutz-s5ZuSR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(29.10% - 6px);
+  white-space: nowrap;
+  width: 85px;
+}
+
+.agbs-2 .impressum-s5ZuSR {
+  background-color: transparent;
+  bottom: calc(46.61% - 9px);
+  cursor: pointer;
+  height: 20px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.agbs-2 .ag-bs-s5ZuSR {
+  background-color: transparent;
+  bottom: calc(22.32% - 4px);
+  height: 20px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 41px;
+}
+
+.agbs-2 .widerrufsrecht-s5ZuSR {
+  background-color: transparent;
+  bottom: -4px;
+  cursor: pointer;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.agbs-2 .gruppe-274-4bksr5 {
+  background-color: transparent;
+  height: 22px;
+  position: absolute;
+  right: calc(17.68% - 54px);
+  top: 86px;
+  width: 306px;
+}
+
+.agbs-2 .produkte-Pb3vnM {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.agbs-2 .produkte-Pb3vnM:hover {
+  opacity: 0;
+}
+
+.agbs-2 .ber-uns-Pb3vnM {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(48.27% - 36px);
+  text-align: left;
+  top: 2px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.agbs-2 .ber-uns-Pb3vnM:hover {
+  opacity: 0;
+}
+
+.agbs-2 .kontakt-Pb3vnM {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  pointer-events: auto;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 2px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 69px;
+}
+
+.agbs-2 .kontakt-Pb3vnM:hover {
+  opacity: 0;
+}
+/* screen - agbs-3 */
+
+.agbs-3 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 4614px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.agbs-3 .detailed_elegant_mar-8oD4zh {
+  background-color: transparent;
+  height: 124.19%;
+  left: -1023.07%;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 2156.97%;
+}
+
+.agbs-3 .wunderkind-original-8oD4zh {
+  background-color: transparent;
+  display: block;
+  height: 3746px;
+  left: 16.27%;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 5.44%;
+  width: 68.00%;
+}
+
+.agbs-3 .wunderkind-original-8oD4zh.bp1-animate-enter81 {
+  animation: bp1-animate-enter81-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter81-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-3 .linie-39-8oD4zh {
+  background-color: transparent;
+  bottom: 10.63%;
+  display: block;
+  height: 1px;
+  left: calc(50.00% - 150px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 301px;
+}
+
+.agbs-3 .linie-39-8oD4zh.bp1-animate-enter82 {
+  animation: bp1-animate-enter82-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter82-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-3 .rechteck-331-8oD4zh {
+  background-color: var(--licorice);
+  bottom: -3px;
+  display: block;
+  height: 44px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.agbs-3 .rechteck-331-8oD4zh.bp1-animate-enter83 {
+  animation: bp1-animate-enter83-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter83-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-3 .wunderkind-original-UFUoMx {
+  background-color: transparent;
+  bottom: 12px;
+  display: block;
+  height: 11px;
+  letter-spacing: 0.00px;
+  line-height: 7px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.49% - 88px);
+  text-align: left;
+  white-space: nowrap;
+  width: 177px;
+}
+
+.agbs-3 .wunderkind-original-UFUoMx.bp1-animate-enter84 {
+  animation: bp1-animate-enter84-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter84-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-3 .gruppe-282-8oD4zh {
+  background-color: transparent;
+  bottom: 58px;
+  display: block;
+  height: 19px;
+  opacity: 0;
+  position: absolute;
+  right: calc(50.00% - 25px);
+  width: 51px;
+}
+
+.agbs-3 .gruppe-282-8oD4zh.bp1-animate-enter85 {
+  animation: bp1-animate-enter85-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter85-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-3 .iconfinder_icon-social-facebook_211902-dKIuZn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 9px;
+}
+
+.agbs-3 .comp_x5-f_173-instagram-dKIuZn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 19px;
+}
+
+.agbs-3 .gruppe-251-VTlqAC {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-3 .pfad-302-bIH1b1 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.agbs-3 .wko_white_transparent-8oD4zh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 120px;
+  left: -17px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: -6px;
+  transition: all 1s ease;
+  width: 160px;
+}
+
+.agbs-3 .wko_white_transparent-8oD4zh:hover {
+  transform: scale(1.1);
+}
+
+.agbs-3 .gruppe-285-8oD4zh {
+  background-color: transparent;
+  bottom: 317px;
+  display: block;
+  height: 61px;
+  left: calc(42.22% - 23px);
+  opacity: 0;
+  position: absolute;
+  width: 54px;
+}
+
+.agbs-3 .gruppe-285-8oD4zh.bp1-animate-enter86 {
+  animation: bp1-animate-enter86-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter86-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-3 .produkte-CoIw50 {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% - 1px);
+}
+
+.agbs-3 .edition-one-CoIw50 {
+  background-color: transparent;
+  bottom: -3px;
+  cursor: pointer;
+  height: 14px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.agbs-3 .gruppe-284-8oD4zh {
+  background-color: transparent;
+  bottom: 230px;
+  display: block;
+  height: 148px;
+  left: 37px;
+  opacity: 0;
+  position: absolute;
+  width: 70px;
+}
+
+.agbs-3 .gruppe-284-8oD4zh.bp1-animate-enter87 {
+  animation: bp1-animate-enter87-frames 0.50s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter87-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.agbs-3 .recht-yxdpiG {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.agbs-3 .datenschutz-yxdpiG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: calc(37.31% - 5px);
+  white-space: nowrap;
+  width: 57px;
+}
+
+.agbs-3 .impressum-yxdpiG {
+  background-color: transparent;
+  bottom: calc(41.04% - 6px);
+  cursor: pointer;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 51px;
+}
+
+.agbs-3 .ag-bs-yxdpiG {
+  background-color: transparent;
+  bottom: calc(19.40% - 3px);
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 28px;
+}
+
+.agbs-3 .widerrufsrecht-yxdpiG {
+  background-color: transparent;
+  bottom: -3px;
+  cursor: pointer;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.agbs-3 .gruppe-280-8oD4zh {
+  background-color: transparent;
+  height: 12px;
+  position: absolute;
+  right: calc(17.03% - 33px);
+  top: 61px;
+  width: 193px;
+}
+
+.agbs-3 .produkte-oJYHis {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.agbs-3 .produkte-oJYHis:hover {
+  opacity: 0;
+}
+
+.agbs-3 .ber-uns-oJYHis {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(47.90% - 21px);
+  text-align: left;
+  top: 1px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.agbs-3 .ber-uns-oJYHis:hover {
+  opacity: 0;
+}
+
+.agbs-3 .kontakt-oJYHis {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  pointer-events: auto;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 1px;
+  transition: all 1s ease;
+  white-space: nowrap;
+  width: 39px;
+}
+
+.agbs-3 .kontakt-oJYHis:hover {
+  opacity: 0;
+}
+@media screen and (max-width: 766px) {
+  .screen.agbs { 
+    display: none;
+   }
+  .screen.agbs-1 { 
+    display: none;
+   }
+  .screen.agbs-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 767px) and (max-width: 1199px) {
+  .screen.agbs { 
+    display: none;
+   }
+  .screen.agbs-1 { 
+    display: none;
+   }
+  .screen.agbs-3 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1200px) and (max-width: 1899px) {
+  .screen.agbs { 
+    display: none;
+   }
+  .screen.agbs-2 { 
+    display: none;
+   }
+  .screen.agbs-3 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1900px) {
+  .screen.agbs-1 { 
+    display: none;
+   }
+  .screen.agbs-2 { 
+    display: none;
+   }
+  .screen.agbs-3 { 
+    display: none;
+   }
+}
